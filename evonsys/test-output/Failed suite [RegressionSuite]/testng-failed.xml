@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [RegressionSuite]]">
+  <listeners>
+    <listener class-name="com.evonsys.citi.helper.listner.ExtentListner"/>
+  </listeners>
+  <test name="FirstTest">
+    <classes>
+      <class name="com.evonsys.citi.utils.A"/>
+    </classes>
+  </test> <!-- FirstTest -->
+  <test name="SecondTest">
+    <classes>
+      <class name="com.evonsys.citi.utils.B"/>
+    </classes>
+  </test> <!-- SecondTest -->
+  <test name="ThirdTest">
+    <classes>
+      <class name="com.evonsys.citi.utils.C"/>
+    </classes>
+  </test> <!-- ThirdTest -->
+  <test name="SecondTest(failed)">
+    <classes>
+      <class name="com.evonsys.citi.utils.B">
+        <methods>
+          <include name="testoginB"/>
+        </methods>
+      </class> <!-- com.evonsys.citi.utils.B -->
+    </classes>
+  </test> <!-- SecondTest(failed) -->
+  <test name="ThirdTest(failed)">
+    <classes>
+      <class name="com.evonsys.citi.utils.C">
+        <methods>
+          <include name="testoginC"/>
+        </methods>
+      </class> <!-- com.evonsys.citi.utils.C -->
+    </classes>
+  </test> <!-- ThirdTest(failed) -->
+  <test name="SecondTest(failed)">
+    <classes>
+      <class name="com.evonsys.citi.utils.B">
+        <methods>
+          <include name="testoginB"/>
+        </methods>
+      </class> <!-- com.evonsys.citi.utils.B -->
+    </classes>
+  </test> <!-- SecondTest(failed) -->
+  <test name="ThirdTest(failed)">
+    <classes>
+      <class name="com.evonsys.citi.utils.C">
+        <methods>
+          <include name="testoginC"/>
+        </methods>
+      </class> <!-- com.evonsys.citi.utils.C -->
+    </classes>
+  </test> <!-- ThirdTest(failed) -->
+  <test name="SecondTest(failed)(failed)">
+    <classes>
+      <class name="com.evonsys.citi.utils.B">
+        <methods>
+          <include name="testoginB"/>
+        </methods>
+      </class> <!-- com.evonsys.citi.utils.B -->
+    </classes>
+  </test> <!-- SecondTest(failed)(failed) -->
+  <test name="ThirdTest(failed)(failed)">
+    <classes>
+      <class name="com.evonsys.citi.utils.C">
+        <methods>
+          <include name="testoginC"/>
+        </methods>
+      </class> <!-- com.evonsys.citi.utils.C -->
+    </classes>
+  </test> <!-- ThirdTest(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [RegressionSuite]] -->

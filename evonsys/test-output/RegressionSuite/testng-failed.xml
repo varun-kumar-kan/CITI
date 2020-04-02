@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [RegressionSuite]">
+  <listeners>
+    <listener class-name="com.evonsys.citi.helper.listner.ExtentListner"/>
+  </listeners>
+  <test name="A">
+    <classes>
+      <class name="com.evonsys.citi.utils.A"/>
+    </classes>
+  </test> <!-- A -->
+  <test name="B">
+    <classes>
+      <class name="com.evonsys.citi.utils.B"/>
+    </classes>
+  </test> <!-- B -->
+  <test name="C">
+    <classes>
+      <class name="com.evonsys.citi.utils.C"/>
+    </classes>
+  </test> <!-- C -->
+  <test name="TestScreenshot">
+    <classes>
+      <class name="com.evonsys.citi.utils.TestScreenshot"/>
+    </classes>
+  </test> <!-- TestScreenshot -->
+  <test name="B(failed)">
+    <classes>
+      <class name="com.evonsys.citi.utils.TestScreenshot">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+          <include name="afterTest"/>
+          <include name="beforeSuite"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.evonsys.citi.utils.TestScreenshot -->
+      <class name="com.evonsys.citi.utils.C">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.evonsys.citi.utils.C -->
+      <class name="com.evonsys.citi.utils.A">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.evonsys.citi.utils.A -->
+      <class name="com.evonsys.citi.utils.B">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+          <include name="testoginB"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.evonsys.citi.utils.B -->
+    </classes>
+  </test> <!-- B(failed) -->
+  <test name="C(failed)">
+    <classes>
+      <class name="com.evonsys.citi.utils.TestScreenshot">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+          <include name="afterTest"/>
+          <include name="beforeSuite"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.evonsys.citi.utils.TestScreenshot -->
+      <class name="com.evonsys.citi.utils.C">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="testoginC"/>
+          <include name="beforeMethod"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.evonsys.citi.utils.C -->
+      <class name="com.evonsys.citi.utils.A">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.evonsys.citi.utils.A -->
+      <class name="com.evonsys.citi.utils.B">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.evonsys.citi.utils.B -->
+    </classes>
+  </test> <!-- C(failed) -->
+</suite> <!-- Failed suite [RegressionSuite] -->

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RegressionSuite">
+<listeners>
+	<!-- <listener class-name = "com.evonsys.citi.helper.listner.RetryListner"></listener> -->
+	<listener class-name = "com.evonsys.citi.helper.listner.ExtentListner"></listener>
+</listeners>
+  <test name="A"><!-- testname and classname should be same -->
+    <classes>
+      <class name="com.evonsys.citi.utils.A"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name = "B">
+  	<classes>
+  		<class name ="com.evonsys.citi.utils.B"/>
+  	</classes>
+  </test>
+  <test name="C">
+  	<classes>
+  		<class name = "com.evonsys.citi.utils.C"></class>
+  	</classes>
+  </test>
+
+  <test name="TestScreenshot">
+  	<classes>
+  		<class name = "com.evonsys.citi.utils.TestScreenshot"></class>
+  	</classes>
+  </test>
+</suite> <!-- Suite -->

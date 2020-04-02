@@ -1,0 +1,583 @@
+%{dd-mm-yyyy HH:MM:SS} INFO  LoggerHelper : 21 -logger is configured
+%{dd-MM-yyyy HH:MM:SS} INFO  LoggerHelper : 21 -logger is configured
+%{dd-MM-yyyy HH:MM:SS} INFO  LoggerHelper :21 - logger is configured
+22-03-2020 16:03:847 INFO  LoggerHelper :21 - logger is configured
+22-03-2020 16:03:638 INFO  LoggerHelper :21 - logger is configured
+23-03-2020 19:03:69 INFO  ResourceHelper :11 - resource path :C:\Users\varun.kandukuri\workspace\evonsys//src/main/java/com/evonsys/projectName/helper/resource/ResourceHelper.java
+23-03-2020 19:03:497 INFO  ResourceHelper :11 - resource path :C:\Users\varun.kandukuri\workspace\evonsys/src/main/java/com/evonsys/projectName/helper/resource/ResourceHelper.java
+24-03-2020 17:03:646 INFO  ExcelHelper :100 - result updated..
+24-03-2020 17:03:778 INFO  ExcelHelper :100 - result updated..
+24-03-2020 17:03:822 INFO  ExcelHelper :100 - result updated..
+24-03-2020 17:03:484 INFO  ExcelHelper :100 - result updated..
+24-03-2020 17:03:574 INFO  ExcelHelper :100 - result updated..
+24-03-2020 17:03:616 INFO  ExcelHelper :100 - result updated..
+26-03-2020 15:03:579 INFO  AssertionHelper :18 - making script PASS..
+26-03-2020 15:03:584 INFO  AssertionHelper :26 - making script FAIL..
+26-03-2020 19:03:951 INFO  AssertionHelper :18 - making script PASS..
+26-03-2020 19:03:957 INFO  AssertionHelper :26 - making script FAIL..
+26-03-2020 19:03:580 INFO  AssertionHelper :18 - making script PASS..
+26-03-2020 19:03:50 INFO  AssertionHelper :26 - making script FAIL..
+26-03-2020 19:03:515 INFO  AssertionHelper :18 - making script PASS..
+26-03-2020 19:03:791 INFO  AssertionHelper :26 - making script FAIL..
+26-03-2020 20:03:46 INFO  AssertionHelper :18 - making script PASS..
+26-03-2020 20:03:373 INFO  AssertionHelper :26 - making script FAIL..
+26-03-2020 20:03:399 INFO  AssertionHelper :26 - making script FAIL..
+26-03-2020 20:03:420 INFO  AssertionHelper :18 - making script PASS..
+26-03-2020 20:03:439 INFO  AssertionHelper :18 - making script PASS..
+26-03-2020 20:03:453 INFO  AssertionHelper :26 - making script FAIL..
+26-03-2020 20:03:466 INFO  AssertionHelper :26 - making script FAIL..
+26-03-2020 20:03:479 INFO  AssertionHelper :18 - making script PASS..
+26-03-2020 20:03:387 INFO  AssertionHelper :18 - making script PASS..
+26-03-2020 20:03:726 INFO  AssertionHelper :26 - making script FAIL..
+26-03-2020 20:03:747 INFO  AssertionHelper :26 - making script FAIL..
+26-03-2020 20:03:760 INFO  AssertionHelper :18 - making script PASS..
+26-03-2020 20:03:771 INFO  AssertionHelper :18 - making script PASS..
+26-03-2020 20:03:783 INFO  AssertionHelper :26 - making script FAIL..
+26-03-2020 20:03:794 INFO  AssertionHelper :26 - making script FAIL..
+26-03-2020 20:03:805 INFO  AssertionHelper :18 - making script PASS..
+26-03-2020 20:03:724 INFO  AssertionHelper :18 - making script PASS..
+26-03-2020 20:03:17 INFO  AssertionHelper :26 - making script FAIL..
+26-03-2020 20:03:47 INFO  AssertionHelper :26 - making script FAIL..
+26-03-2020 20:03:65 INFO  AssertionHelper :18 - making script PASS..
+26-03-2020 20:03:79 INFO  AssertionHelper :18 - making script PASS..
+26-03-2020 20:03:93 INFO  AssertionHelper :26 - making script FAIL..
+26-03-2020 20:03:104 INFO  AssertionHelper :26 - making script FAIL..
+26-03-2020 20:03:114 INFO  AssertionHelper :18 - making script PASS..
+26-03-2020 20:03:531 INFO  AssertionHelper :18 - making script PASS..
+26-03-2020 20:03:884 INFO  AssertionHelper :26 - making script FAIL..
+26-03-2020 20:03:913 INFO  AssertionHelper :26 - making script FAIL..
+26-03-2020 20:03:930 INFO  AssertionHelper :18 - making script PASS..
+26-03-2020 20:03:922 INFO  AssertionHelper :18 - making script PASS..
+26-03-2020 20:03:230 INFO  AssertionHelper :26 - making script FAIL..
+26-03-2020 20:03:258 INFO  AssertionHelper :26 - making script FAIL..
+26-03-2020 20:03:272 INFO  AssertionHelper :18 - making script PASS..
+26-03-2020 20:03:287 INFO  AssertionHelper :18 - making script PASS..
+26-03-2020 20:03:299 INFO  AssertionHelper :26 - making script FAIL..
+26-03-2020 20:03:314 INFO  AssertionHelper :26 - making script FAIL..
+26-03-2020 20:03:327 INFO  AssertionHelper :18 - making script PASS..
+26-03-2020 20:03:618 INFO  AssertionHelper :18 - making script PASS..
+26-03-2020 20:03:891 INFO  AssertionHelper :26 - making script FAIL..
+26-03-2020 20:03:917 INFO  AssertionHelper :26 - making script FAIL..
+26-03-2020 20:03:931 INFO  AssertionHelper :18 - making script PASS..
+26-03-2020 20:03:944 INFO  AssertionHelper :18 - making script PASS..
+26-03-2020 20:03:955 INFO  AssertionHelper :26 - making script FAIL..
+26-03-2020 20:03:969 INFO  AssertionHelper :26 - making script FAIL..
+26-03-2020 20:03:982 INFO  AssertionHelper :18 - making script PASS..
+27-03-2020 16:03:432 INFO  Base :119 - initialise WebDriver 26970580
+27-03-2020 16:03:454 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+27-03-2020 16:03:460 INFO  WaitHelper :124 - waiting for page to load for SECONDS
+27-03-2020 16:03:460 INFO  WaitHelper :125 - page is loded
+27-03-2020 16:03:941 INFO  Base :119 - initialise WebDriver 26970580
+27-03-2020 16:03:950 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+27-03-2020 16:03:954 INFO  WaitHelper :124 - waiting for page to load for SECONDS
+27-03-2020 16:03:954 INFO  WaitHelper :125 - page is loded
+27-03-2020 16:03:55 INFO  Base :119 - initialise WebDriver 26970580
+27-03-2020 16:03:72 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+27-03-2020 16:03:77 INFO  WaitHelper :124 - waiting for page to load for SECONDS
+27-03-2020 16:03:78 INFO  WaitHelper :125 - page is loded
+27-03-2020 16:03:784 INFO  Base :121 - Initialise WebDriver 26970580
+27-03-2020 16:03:828 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+27-03-2020 16:03:844 INFO  WaitHelper :124 - waiting for page to load for SECONDS
+27-03-2020 16:03:844 INFO  WaitHelper :125 - page is loded
+27-03-2020 16:03:317 INFO  Base :121 - Initialise WebDriver 26970580
+27-03-2020 16:03:356 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+27-03-2020 16:03:371 INFO  WaitHelper :124 - waiting for page to load for SECONDS
+27-03-2020 16:03:372 INFO  WaitHelper :125 - page is loded
+27-03-2020 16:03:494 INFO  Base :121 - Initialise WebDriver 26970580
+27-03-2020 16:03:515 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+27-03-2020 16:03:519 INFO  WaitHelper :124 - waiting for page to load for SECONDS
+27-03-2020 16:03:519 INFO  WaitHelper :125 - page is loded
+27-03-2020 16:03:140 INFO  Base :121 - Initialise WebDriver 26970580
+27-03-2020 16:03:168 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+27-03-2020 16:03:183 INFO  WaitHelper :124 - waiting for page to load for SECONDS
+27-03-2020 16:03:183 INFO  WaitHelper :125 - page is loded
+27-03-2020 18:03:787 INFO  Retry :19 - Retry Test testoginB with status FAIL for the 2 times
+27-03-2020 18:03:791 INFO  Retry :19 - Retry Test testoginB with status FAIL for the 3 times
+27-03-2020 18:03:804 INFO  Retry :19 - Retry Test testoginC with status FAIL for the 2 times
+27-03-2020 18:03:807 INFO  Retry :19 - Retry Test testoginC with status FAIL for the 3 times
+27-03-2020 18:03:407 INFO  ExtentListner :54 - FirstTest class started..
+27-03-2020 18:03:424 INFO  ExtentListner :24 - testLogin Test Started..
+27-03-2020 18:03:430 INFO  ExtentListner :30 - testLogin Test Passed
+27-03-2020 18:03:699 INFO  ExtentListner :60 - FirstTest Test Finished..
+27-03-2020 18:03:701 INFO  ExtentListner :54 - SecondTest class started..
+27-03-2020 18:03:703 INFO  ExtentListner :24 - testoginB Test Started..
+27-03-2020 18:03:705 ERROR ExtentListner :36 - testoginB Test Failed.. junit.framework.AssertionFailedError
+27-03-2020 18:03:736 INFO  ExtentListner :60 - SecondTest Test Finished..
+27-03-2020 18:03:738 INFO  ExtentListner :54 - ThirdTest class started..
+27-03-2020 18:03:740 INFO  ExtentListner :24 - testoginC Test Started..
+27-03-2020 18:03:743 ERROR ExtentListner :36 - testoginC Test Failed.. junit.framework.AssertionFailedError
+27-03-2020 18:03:762 INFO  ExtentListner :60 - ThirdTest Test Finished..
+27-03-2020 20:03:533 INFO  Base :126 - Initialise WebDriver 1528834618
+27-03-2020 20:03:545 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+27-03-2020 20:03:550 INFO  WaitHelper :124 - waiting for page to load for SECONDS
+27-03-2020 20:03:551 INFO  WaitHelper :125 - page is loded
+27-03-2020 21:03:651 INFO  Base :130 - Initialise WebDriver 1528834618
+27-03-2020 21:03:682 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+27-03-2020 21:03:686 INFO  WaitHelper :124 - Waiting for Page Load Time200 for SECONDS
+27-03-2020 21:03:686 INFO  WaitHelper :125 - Page is loded
+27-03-2020 21:03:760 INFO  ExtentListner :26 - A class started..
+27-03-2020 21:03:772 INFO  ExtentListner :32 - testLogin Test Started..
+27-03-2020 21:03:775 INFO  ExtentListner :38 - testLogin Test Passed
+27-03-2020 21:03:790 INFO  ExtentListner :64 - A Test Finished..
+27-03-2020 21:03:791 INFO  ExtentListner :26 - B class started..
+27-03-2020 21:03:792 INFO  ExtentListner :32 - testoginB Test Started..
+27-03-2020 21:03:795 ERROR ExtentListner :44 - testoginB Test Failed.. junit.framework.AssertionFailedError
+27-03-2020 21:03:803 INFO  ExtentListner :64 - B Test Finished..
+27-03-2020 21:03:804 INFO  ExtentListner :26 - C class started..
+27-03-2020 21:03:805 INFO  ExtentListner :32 - testoginC Test Started..
+27-03-2020 21:03:808 ERROR ExtentListner :44 - testoginC Test Failed.. junit.framework.AssertionFailedError
+27-03-2020 21:03:814 INFO  ExtentListner :64 - C Test Finished..
+27-03-2020 21:03:820 INFO  ExtentListner :26 - TestScreenshot class started..
+27-03-2020 21:03:684 INFO  Base :130 - Initialise WebDriver 1570358965
+27-03-2020 21:03:726 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+27-03-2020 21:03:736 INFO  WaitHelper :124 - Waiting for Page Load Time200 for SECONDS
+27-03-2020 21:03:738 INFO  WaitHelper :125 - Page is loded
+27-03-2020 21:03:913 INFO  ExtentListner :32 - test Test Started..
+27-03-2020 21:03:402 INFO  ExtentListner :38 - test Test Passed
+27-03-2020 21:03:533 INFO  ExtentListner :64 - TestScreenshot Test Finished..
+27-03-2020 21:03:558 INFO  ExtentListner :26 - A class started..
+27-03-2020 21:03:569 INFO  ExtentListner :32 - testLogin Test Started..
+27-03-2020 21:03:572 INFO  ExtentListner :38 - testLogin Test Passed
+27-03-2020 21:03:588 INFO  ExtentListner :64 - A Test Finished..
+27-03-2020 21:03:590 INFO  ExtentListner :26 - B class started..
+27-03-2020 21:03:591 INFO  ExtentListner :32 - testoginB Test Started..
+27-03-2020 21:03:594 ERROR ExtentListner :44 - testoginB Test Failed.. junit.framework.AssertionFailedError
+27-03-2020 21:03:602 INFO  ExtentListner :64 - B Test Finished..
+27-03-2020 21:03:602 INFO  ExtentListner :26 - C class started..
+27-03-2020 21:03:604 INFO  ExtentListner :32 - testoginC Test Started..
+27-03-2020 21:03:605 ERROR ExtentListner :44 - testoginC Test Failed.. junit.framework.AssertionFailedError
+27-03-2020 21:03:612 INFO  ExtentListner :64 - C Test Finished..
+27-03-2020 21:03:618 INFO  ExtentListner :26 - TestScreenshot class started..
+27-03-2020 21:03:511 INFO  Base :130 - Initialise WebDriver 1570358965
+27-03-2020 21:03:548 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+27-03-2020 21:03:555 INFO  WaitHelper :124 - Waiting for Page Load Time200 for SECONDS
+27-03-2020 21:03:559 INFO  WaitHelper :125 - Page is loded
+27-03-2020 21:03:730 INFO  ExtentListner :32 - test Test Started..
+27-03-2020 21:03:586 INFO  ExtentListner :38 - test Test Passed
+27-03-2020 21:03:387 INFO  ExtentListner :64 - TestScreenshot Test Finished..
+27-03-2020 21:03:190 INFO  ExtentListner :26 - A class started..
+27-03-2020 21:03:295 INFO  Base :130 - Initialise WebDriver with hashcode :1370074462
+27-03-2020 21:03:323 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+27-03-2020 21:03:329 INFO  WaitHelper :124 - Waiting for Page Load Time of 200 SECONDS
+27-03-2020 21:03:329 INFO  WaitHelper :125 - Page is loded
+27-03-2020 21:03:524 INFO  ExtentListner :32 - testLogin Test Started..
+27-03-2020 21:03:531 INFO  ExtentListner :38 - testLogin Test Passed
+27-03-2020 21:03:667 INFO  ExtentListner :64 - A Test Finished..
+27-03-2020 21:03:670 INFO  ExtentListner :26 - B class started..
+27-03-2020 21:03:57 INFO  Base :130 - Initialise WebDriver with hashcode :2069500590
+27-03-2020 21:03:63 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+27-03-2020 21:03:68 INFO  WaitHelper :124 - Waiting for Page Load Time of 200 SECONDS
+27-03-2020 21:03:68 INFO  WaitHelper :125 - Page is loded
+27-03-2020 21:03:217 INFO  ExtentListner :32 - testoginB Test Started..
+27-03-2020 21:03:223 ERROR ExtentListner :44 - testoginB Test Failed.. junit.framework.AssertionFailedError
+27-03-2020 21:03:599 INFO  ExtentListner :64 - B Test Finished..
+27-03-2020 21:03:600 INFO  ExtentListner :26 - C class started..
+27-03-2020 21:03:220 INFO  Base :130 - Initialise WebDriver with hashcode :1950800085
+27-03-2020 21:03:232 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+27-03-2020 21:03:244 INFO  WaitHelper :124 - Waiting for Page Load Time of 200 SECONDS
+27-03-2020 21:03:248 INFO  WaitHelper :125 - Page is loded
+27-03-2020 21:03:428 INFO  ExtentListner :32 - testoginC Test Started..
+27-03-2020 21:03:438 ERROR ExtentListner :44 - testoginC Test Failed.. junit.framework.AssertionFailedError
+27-03-2020 21:03:800 INFO  ExtentListner :64 - C Test Finished..
+27-03-2020 21:03:801 INFO  ExtentListner :26 - TestScreenshot class started..
+27-03-2020 21:03:934 INFO  Base :130 - Initialise WebDriver with hashcode :1731763384
+27-03-2020 21:03:943 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+27-03-2020 21:03:953 INFO  WaitHelper :124 - Waiting for Page Load Time of 200 SECONDS
+27-03-2020 21:03:956 INFO  WaitHelper :125 - Page is loded
+27-03-2020 21:03:162 INFO  ExtentListner :32 - test Test Started..
+27-03-2020 21:03:914 INFO  ExtentListner :38 - test Test Passed
+27-03-2020 21:03:378 INFO  ExtentListner :64 - TestScreenshot Test Finished..
+28-03-2020 09:03:330 INFO  ExtentListner :26 - A class started..
+28-03-2020 09:03:983 INFO  Base :139 - Initialise WebDriver with hashcode :1620823990
+28-03-2020 09:03:03 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+28-03-2020 09:03:10 INFO  WaitHelper :124 - Waiting for Page Load Time of 200 SECONDS
+28-03-2020 09:03:10 INFO  WaitHelper :125 - Page is loded
+28-03-2020 09:03:171 INFO  ExtentListner :32 - testLogin Test Started..
+28-03-2020 09:03:173 INFO  ExtentListner :38 - testLogin Test Passed
+28-03-2020 09:03:987 INFO  ExtentListner :64 - A Test Finished..
+28-03-2020 09:03:993 INFO  ExtentListner :26 - B class started..
+28-03-2020 09:03:338 INFO  Base :139 - Initialise WebDriver with hashcode :440736059
+28-03-2020 09:03:345 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+28-03-2020 09:03:358 INFO  WaitHelper :124 - Waiting for Page Load Time of 200 SECONDS
+28-03-2020 09:03:359 INFO  WaitHelper :125 - Page is loded
+28-03-2020 09:03:536 INFO  ExtentListner :32 - testoginB Test Started..
+28-03-2020 09:03:538 ERROR ExtentListner :44 - testoginB Test Failed.. junit.framework.AssertionFailedError
+28-03-2020 09:03:632 INFO  ExtentListner :64 - B Test Finished..
+28-03-2020 09:03:641 INFO  ExtentListner :26 - C class started..
+28-03-2020 09:03:291 INFO  Base :139 - Initialise WebDriver with hashcode :1491860739
+28-03-2020 09:03:303 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+28-03-2020 09:03:315 INFO  WaitHelper :124 - Waiting for Page Load Time of 200 SECONDS
+28-03-2020 09:03:316 INFO  WaitHelper :125 - Page is loded
+28-03-2020 09:03:507 INFO  ExtentListner :32 - testoginC Test Started..
+28-03-2020 09:03:513 ERROR ExtentListner :44 - testoginC Test Failed.. junit.framework.AssertionFailedError
+28-03-2020 09:03:552 INFO  ExtentListner :64 - C Test Finished..
+28-03-2020 09:03:557 INFO  ExtentListner :26 - TestScreenshot class started..
+28-03-2020 09:03:216 INFO  Base :139 - Initialise WebDriver with hashcode :1190566357
+28-03-2020 09:03:225 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+28-03-2020 09:03:239 INFO  WaitHelper :124 - Waiting for Page Load Time of 200 SECONDS
+28-03-2020 09:03:239 INFO  WaitHelper :125 - Page is loded
+28-03-2020 09:03:417 INFO  ExtentListner :32 - test Test Started..
+28-03-2020 09:03:564 INFO  ExtentListner :38 - test Test Passed
+28-03-2020 09:03:707 INFO  ExtentListner :64 - TestScreenshot Test Finished..
+28-03-2020 10:03:263 INFO  Base :139 - Initialise WebDriver with hashcode :351417028
+28-03-2020 10:03:283 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+28-03-2020 10:03:290 INFO  WaitHelper :124 - Waiting for Page Load Time of 200 SECONDS
+28-03-2020 10:03:290 INFO  WaitHelper :125 - Page is loded
+28-03-2020 10:03:954 INFO  LoggerHelper :24 - logger is configured
+28-03-2020 13:03:28 INFO  LoggerHelper :24 - logger is configured
+28-03-2020 13:03:315 INFO  Base :139 - Initialise WebDriver with hashcode :351417028
+28-03-2020 13:03:340 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+28-03-2020 13:03:349 INFO  WaitHelper :124 - Waiting for Page Load Time of 200 SECONDS
+28-03-2020 13:03:350 INFO  WaitHelper :125 - Page is loded
+28-03-2020 16:03:50 INFO  Base :139 - Initialise WebDriver with hashcode :351417028
+28-03-2020 16:03:77 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+28-03-2020 16:03:81 INFO  WaitHelper :124 - Waiting for Page Load Time of 200 SECONDS
+28-03-2020 16:03:81 INFO  WaitHelper :125 - Page is loded
+28-03-2020 16:03:11 INFO  Base :139 - Initialise WebDriver with hashcode :1107404311
+28-03-2020 16:03:33 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+28-03-2020 16:03:41 INFO  WaitHelper :124 - Waiting for Page Load Time of 200 SECONDS
+28-03-2020 16:03:42 INFO  WaitHelper :125 - Page is loded
+28-03-2020 17:03:402 INFO  Base :139 - Initialise WebDriver with hashcode :351417028
+28-03-2020 17:03:411 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+28-03-2020 17:03:414 INFO  WaitHelper :124 - Waiting for Page Load Time of 200 SECONDS
+28-03-2020 17:03:414 INFO  WaitHelper :125 - Page is loded
+28-03-2020 17:03:02 INFO  Base :139 - Initialise WebDriver with hashcode :351417028
+28-03-2020 17:03:32 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+28-03-2020 17:03:60 INFO  WaitHelper :124 - Waiting for Page Load Time of 200 SECONDS
+28-03-2020 17:03:60 INFO  WaitHelper :125 - Page is loded
+28-03-2020 17:03:145 INFO  Base :139 - Initialise WebDriver with hashcode :351417028
+28-03-2020 17:03:178 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+28-03-2020 17:03:194 INFO  WaitHelper :124 - Waiting for Page Load Time of 200 SECONDS
+28-03-2020 17:03:194 INFO  WaitHelper :125 - Page is loded
+28-03-2020 18:03:591 INFO  Base :140 - Initialise WebDriver with hashcode :351417028
+28-03-2020 18:03:601 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+28-03-2020 18:03:604 INFO  WaitHelper :124 - Waiting for Page Load Time of 200 SECONDS
+28-03-2020 18:03:604 INFO  WaitHelper :125 - Page is loded
+28-03-2020 18:03:463 INFO  Base :140 - Initialise WebDriver with hashcode :38544126
+28-03-2020 18:03:471 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+28-03-2020 18:03:475 INFO  WaitHelper :124 - Waiting for Page Load Time of 200 SECONDS
+28-03-2020 18:03:475 INFO  WaitHelper :125 - Page is loded
+28-03-2020 18:03:826 INFO  Base :140 - Initialise WebDriver with hashcode :38544126
+28-03-2020 18:03:835 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+28-03-2020 18:03:838 INFO  WaitHelper :124 - Waiting for Page Load Time of 200 SECONDS
+28-03-2020 18:03:838 INFO  WaitHelper :125 - Page is loded
+28-03-2020 18:03:494 INFO  Base :140 - Initialise WebDriver with hashcode :38544126
+28-03-2020 18:03:503 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+28-03-2020 18:03:506 INFO  WaitHelper :124 - Waiting for Page Load Time of 200 SECONDS
+28-03-2020 18:03:506 INFO  WaitHelper :125 - Page is loded
+28-03-2020 18:03:817 INFO  Base :140 - Initialise WebDriver with hashcode :38544126
+28-03-2020 18:03:839 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+28-03-2020 18:03:855 INFO  WaitHelper :124 - Waiting for Page Load Time of 200 SECONDS
+28-03-2020 18:03:855 INFO  WaitHelper :125 - Page is loded
+28-03-2020 18:03:467 INFO  Base :140 - Initialise WebDriver with hashcode :38544126
+28-03-2020 18:03:499 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+28-03-2020 18:03:515 INFO  WaitHelper :124 - Waiting for Page Load Time of 200 SECONDS
+28-03-2020 18:03:515 INFO  WaitHelper :125 - Page is loded
+28-03-2020 19:03:226 INFO  Base :141 - Initialise WebDriver with hashcode :38544126
+28-03-2020 19:03:240 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+28-03-2020 19:03:243 INFO  WaitHelper :124 - Waiting for Page Load Time of 200 SECONDS
+28-03-2020 19:03:243 INFO  WaitHelper :125 - Page is loded
+28-03-2020 19:03:83 INFO  Base :141 - Initialise WebDriver with hashcode :38544126
+28-03-2020 19:03:121 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+28-03-2020 19:03:147 INFO  WaitHelper :124 - Waiting for Page Load Time of 200 SECONDS
+28-03-2020 19:03:148 INFO  WaitHelper :125 - Page is loded
+28-03-2020 19:03:232 INFO  Base :141 - Initialise WebDriver with hashcode :38544126
+28-03-2020 19:03:242 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+28-03-2020 19:03:246 INFO  WaitHelper :124 - Waiting for Page Load Time of 200 SECONDS
+28-03-2020 19:03:246 INFO  WaitHelper :125 - Page is loded
+28-03-2020 19:03:215 INFO  Base :141 - Initialise WebDriver with hashcode :38544126
+28-03-2020 19:03:244 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+28-03-2020 19:03:251 INFO  WaitHelper :124 - Waiting for Page Load Time of 200 SECONDS
+28-03-2020 19:03:252 INFO  WaitHelper :125 - Page is loded
+28-03-2020 20:03:481 INFO  Base :139 - Initialise WebDriver with hashcode :38544126
+28-03-2020 20:03:519 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+28-03-2020 20:03:522 INFO  WaitHelper :124 - Waiting for Page Load Time of 200 SECONDS
+28-03-2020 20:03:522 INFO  WaitHelper :125 - Page is loded
+28-03-2020 20:03:198 INFO  Base :139 - Initialise WebDriver with hashcode :38544126
+28-03-2020 20:03:210 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+28-03-2020 20:03:214 INFO  WaitHelper :124 - Waiting for Page Load Time of 200 SECONDS
+28-03-2020 20:03:214 INFO  WaitHelper :125 - Page is loded
+28-03-2020 20:03:01 INFO  Base :139 - Initialise WebDriver with hashcode :38544126
+28-03-2020 20:03:24 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+28-03-2020 20:03:38 INFO  WaitHelper :124 - Waiting for Page Load Time of 200 SECONDS
+28-03-2020 20:03:39 INFO  WaitHelper :125 - Page is loded
+28-03-2020 20:03:350 INFO  Base :139 - Initialise WebDriver with hashcode :38544126
+28-03-2020 20:03:381 INFO  WaitHelper :34 - Implicit Wait has been set to 120 SECONDS
+28-03-2020 20:03:400 INFO  WaitHelper :124 - Waiting for Page Load Time of 200 SECONDS
+28-03-2020 20:03:400 INFO  WaitHelper :125 - Page is loded
+30-03-2020 10:03:980 INFO  Base :139 - Initialise WebDriver with hashcode :38544126
+30-03-2020 10:03:987 INFO  WaitHelper :24 - WaitHelper object created.
+30-03-2020 10:03:01 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+30-03-2020 10:03:10 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+30-03-2020 10:03:11 INFO  WaitHelper :126 - Page is loded
+30-03-2020 10:03:372 INFO  Base :139 - Initialise WebDriver with hashcode :38544126
+30-03-2020 10:03:378 INFO  WaitHelper :24 - WaitHelper object created.
+30-03-2020 10:03:391 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+30-03-2020 10:03:401 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+30-03-2020 10:03:402 INFO  WaitHelper :126 - Page is loded
+30-03-2020 10:03:54 INFO  Base :139 - Initialise WebDriver with hashcode :38544126
+30-03-2020 10:03:62 INFO  WaitHelper :24 - WaitHelper object created.
+30-03-2020 10:03:76 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+30-03-2020 10:03:85 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+30-03-2020 10:03:87 INFO  WaitHelper :126 - Page is loded
+30-03-2020 10:03:702 INFO  Base :139 - Initialise WebDriver with hashcode :38544126
+30-03-2020 10:03:705 INFO  WaitHelper :24 - WaitHelper object created.
+30-03-2020 10:03:711 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+30-03-2020 10:03:716 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+30-03-2020 10:03:717 INFO  WaitHelper :126 - Page is loded
+30-03-2020 10:03:553 INFO  Base :139 - Initialise WebDriver with hashcode :38544126
+30-03-2020 10:03:567 INFO  WaitHelper :24 - WaitHelper object created.
+30-03-2020 10:03:577 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+30-03-2020 10:03:585 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+30-03-2020 10:03:585 INFO  WaitHelper :126 - Page is loded
+30-03-2020 10:03:349 INFO  Base :139 - Initialise WebDriver with hashcode :38544126
+30-03-2020 10:03:353 INFO  WaitHelper :24 - WaitHelper object created.
+30-03-2020 10:03:359 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+30-03-2020 10:03:364 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+30-03-2020 10:03:364 INFO  WaitHelper :126 - Page is loded
+30-03-2020 10:03:777 INFO  Base :139 - Initialise WebDriver with hashcode :38544126
+30-03-2020 10:03:787 INFO  WaitHelper :24 - WaitHelper object created.
+30-03-2020 10:03:807 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+30-03-2020 10:03:817 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+30-03-2020 10:03:817 INFO  WaitHelper :126 - Page is loded
+30-03-2020 11:03:136 INFO  Base :139 - Initialise WebDriver with hashcode :38544126
+30-03-2020 11:03:139 INFO  WaitHelper :24 - WaitHelper object created.
+30-03-2020 11:03:158 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+30-03-2020 11:03:176 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+30-03-2020 11:03:176 INFO  WaitHelper :126 - Page is loded
+30-03-2020 11:03:953 INFO  Base :141 - Initialise WebDriver with hashcode :38544126
+30-03-2020 11:03:959 INFO  WaitHelper :24 - WaitHelper object created.
+30-03-2020 11:03:972 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+30-03-2020 11:03:982 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+30-03-2020 11:03:982 INFO  WaitHelper :126 - Page is loded
+30-03-2020 11:03:242 INFO  Base :141 - Initialise WebDriver with hashcode :38544126
+30-03-2020 11:03:249 INFO  WaitHelper :24 - WaitHelper object created.
+30-03-2020 11:03:274 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+30-03-2020 11:03:295 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+30-03-2020 11:03:296 INFO  WaitHelper :126 - Page is loded
+30-03-2020 11:03:465 INFO  Base :141 - Initialise WebDriver with hashcode :1182758821
+30-03-2020 11:03:481 INFO  WaitHelper :24 - WaitHelper object created.
+30-03-2020 11:03:509 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+30-03-2020 11:03:545 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+30-03-2020 11:03:546 INFO  WaitHelper :126 - Page is loded
+30-03-2020 12:03:242 INFO  Base :141 - Initialise WebDriver with hashcode :38544126
+30-03-2020 12:03:253 INFO  WaitHelper :24 - WaitHelper object created.
+30-03-2020 12:03:268 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+30-03-2020 12:03:275 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+30-03-2020 12:03:276 INFO  WaitHelper :126 - Page is loded
+30-03-2020 12:03:115 INFO  Base :141 - Initialise WebDriver with hashcode :38544126
+30-03-2020 12:03:119 INFO  WaitHelper :24 - WaitHelper object created.
+30-03-2020 12:03:125 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+30-03-2020 12:03:129 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+30-03-2020 12:03:129 INFO  WaitHelper :126 - Page is loded
+30-03-2020 12:03:637 INFO  Base :141 - Initialise WebDriver with hashcode :38544126
+30-03-2020 12:03:642 INFO  WaitHelper :24 - WaitHelper object created.
+30-03-2020 12:03:650 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+30-03-2020 12:03:655 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+30-03-2020 12:03:655 INFO  WaitHelper :126 - Page is loded
+30-03-2020 17:03:587 INFO  Base :141 - Initialise WebDriver with hashcode :38544126
+30-03-2020 17:03:594 INFO  WaitHelper :24 - WaitHelper object created.
+30-03-2020 17:03:600 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+30-03-2020 17:03:603 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+30-03-2020 17:03:604 INFO  WaitHelper :126 - Page is loded
+31-03-2020 14:03:348 INFO  Base :142 - Initialise WebDriver with hashcode :2074658615
+31-03-2020 14:03:351 INFO  WaitHelper :24 - WaitHelper object created.
+31-03-2020 14:03:366 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+31-03-2020 14:03:372 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+31-03-2020 14:03:372 INFO  WaitHelper :126 - Page is loded
+31-03-2020 14:03:489 INFO  AssertionHelper :18 - making script PASS..
+31-03-2020 14:03:171 INFO  AssertionHelper :26 - making script FAIL..
+31-03-2020 14:03:516 INFO  AssertionHelper :26 - making script FAIL..
+31-03-2020 14:03:858 INFO  AssertionHelper :18 - making script PASS..
+31-03-2020 14:03:163 INFO  AssertionHelper :18 - making script PASS..
+31-03-2020 14:03:164 INFO  Base :152 - driver is null..
+31-03-2020 14:03:211 INFO  Base :142 - Initialise WebDriver with hashcode :38544126
+31-03-2020 14:03:224 INFO  WaitHelper :24 - WaitHelper object created.
+31-03-2020 14:03:238 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+31-03-2020 14:03:246 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+31-03-2020 14:03:247 INFO  WaitHelper :126 - Page is loded
+31-03-2020 14:03:138 INFO  Base :142 - Initialise WebDriver with hashcode :1624972302
+31-03-2020 14:03:150 INFO  WaitHelper :24 - WaitHelper object created.
+31-03-2020 14:03:170 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+31-03-2020 14:03:182 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+31-03-2020 14:03:184 INFO  WaitHelper :126 - Page is loded
+31-03-2020 14:03:909 INFO  Base :142 - Initialise WebDriver with hashcode :1624972302
+31-03-2020 14:03:916 INFO  WaitHelper :24 - WaitHelper object created.
+31-03-2020 14:03:922 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+31-03-2020 14:03:925 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+31-03-2020 14:03:925 INFO  WaitHelper :126 - Page is loded
+31-03-2020 14:03:946 INFO  Base :142 - Initialise WebDriver with hashcode :1624972302
+31-03-2020 14:03:954 INFO  WaitHelper :24 - WaitHelper object created.
+31-03-2020 14:03:967 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+31-03-2020 14:03:977 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+31-03-2020 14:03:978 INFO  WaitHelper :126 - Page is loded
+31-03-2020 14:03:240 INFO  Base :142 - Initialise WebDriver with hashcode :1624972302
+31-03-2020 14:03:247 INFO  WaitHelper :24 - WaitHelper object created.
+31-03-2020 14:03:257 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+31-03-2020 14:03:260 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+31-03-2020 14:03:260 INFO  WaitHelper :126 - Page is loded
+31-03-2020 14:03:398 INFO  Base :142 - Initialise WebDriver with hashcode :1624972302
+31-03-2020 14:03:402 INFO  WaitHelper :24 - WaitHelper object created.
+31-03-2020 14:03:408 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+31-03-2020 14:03:415 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+31-03-2020 14:03:416 INFO  WaitHelper :126 - Page is loded
+31-03-2020 15:03:527 INFO  Base :142 - Initialise WebDriver with hashcode :1624972302
+31-03-2020 15:03:534 INFO  WaitHelper :24 - WaitHelper object created.
+31-03-2020 15:03:543 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+31-03-2020 15:03:551 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+31-03-2020 15:03:551 INFO  WaitHelper :126 - Page is loded
+31-03-2020 15:03:524 INFO  Base :142 - Initialise WebDriver with hashcode :1624972302
+31-03-2020 15:03:534 INFO  WaitHelper :24 - WaitHelper object created.
+31-03-2020 15:03:543 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+31-03-2020 15:03:553 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+31-03-2020 15:03:554 INFO  WaitHelper :126 - Page is loded
+31-03-2020 15:03:44 INFO  Base :142 - Initialise WebDriver with hashcode :1624972302
+31-03-2020 15:03:49 INFO  WaitHelper :24 - WaitHelper object created.
+31-03-2020 15:03:55 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+31-03-2020 15:03:59 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+31-03-2020 15:03:59 INFO  WaitHelper :126 - Page is loded
+31-03-2020 15:03:995 INFO  Base :142 - Initialise WebDriver with hashcode :1624972302
+31-03-2020 15:03:03 INFO  WaitHelper :24 - WaitHelper object created.
+31-03-2020 15:03:10 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+31-03-2020 15:03:13 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+31-03-2020 15:03:13 INFO  WaitHelper :126 - Page is loded
+31-03-2020 15:03:898 INFO  Base :142 - Initialise WebDriver with hashcode :1048098469
+31-03-2020 15:03:903 INFO  WaitHelper :24 - WaitHelper object created.
+31-03-2020 15:03:909 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+31-03-2020 15:03:913 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+31-03-2020 15:03:913 INFO  WaitHelper :126 - Page is loded
+31-03-2020 15:03:124 INFO  Base :142 - Initialise WebDriver with hashcode :1624972302
+31-03-2020 15:03:130 INFO  WaitHelper :24 - WaitHelper object created.
+31-03-2020 15:03:141 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+31-03-2020 15:03:144 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+31-03-2020 15:03:144 INFO  WaitHelper :126 - Page is loded
+31-03-2020 15:03:697 INFO  Base :142 - Initialise WebDriver with hashcode :1624972302
+31-03-2020 15:03:701 INFO  WaitHelper :24 - WaitHelper object created.
+31-03-2020 15:03:711 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+31-03-2020 15:03:721 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+31-03-2020 15:03:721 INFO  WaitHelper :126 - Page is loded
+31-03-2020 15:03:495 INFO  Base :142 - Initialise WebDriver with hashcode :1624972302
+31-03-2020 15:03:500 INFO  WaitHelper :24 - WaitHelper object created.
+31-03-2020 15:03:510 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+31-03-2020 15:03:518 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+31-03-2020 15:03:518 INFO  WaitHelper :126 - Page is loded
+31-03-2020 16:03:443 INFO  Base :142 - Initialise WebDriver with hashcode :1624972302
+31-03-2020 16:03:458 INFO  WaitHelper :24 - WaitHelper object created.
+31-03-2020 16:03:470 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+31-03-2020 16:03:477 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+31-03-2020 16:03:477 INFO  WaitHelper :126 - Page is loded
+31-03-2020 16:03:531 INFO  Base :142 - Initialise WebDriver with hashcode :1624972302
+31-03-2020 16:03:537 INFO  WaitHelper :24 - WaitHelper object created.
+31-03-2020 16:03:545 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+31-03-2020 16:03:554 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+31-03-2020 16:03:554 INFO  WaitHelper :126 - Page is loded
+31-03-2020 16:03:904 INFO  Base :142 - Initialise WebDriver with hashcode :1624972302
+31-03-2020 16:03:912 INFO  WaitHelper :24 - WaitHelper object created.
+31-03-2020 16:03:917 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+31-03-2020 16:03:921 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+31-03-2020 16:03:921 INFO  WaitHelper :126 - Page is loded
+31-03-2020 16:03:988 INFO  Base :142 - Initialise WebDriver with hashcode :1624972302
+31-03-2020 16:03:999 INFO  WaitHelper :24 - WaitHelper object created.
+31-03-2020 16:03:17 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+31-03-2020 16:03:25 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+31-03-2020 16:03:25 INFO  WaitHelper :126 - Page is loded
+31-03-2020 16:03:23 INFO  Base :142 - Initialise WebDriver with hashcode :38544126
+31-03-2020 16:03:30 INFO  WaitHelper :24 - WaitHelper object created.
+31-03-2020 16:03:43 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+31-03-2020 16:03:51 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+31-03-2020 16:03:51 INFO  WaitHelper :126 - Page is loded
+31-03-2020 16:03:920 INFO  Base :142 - Initialise WebDriver with hashcode :38544126
+31-03-2020 16:03:924 INFO  WaitHelper :24 - WaitHelper object created.
+31-03-2020 16:03:934 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+31-03-2020 16:03:939 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+31-03-2020 16:03:939 INFO  WaitHelper :126 - Page is loded
+31-03-2020 16:03:786 INFO  Base :142 - Initialise WebDriver with hashcode :38544126
+31-03-2020 16:03:789 INFO  WaitHelper :24 - WaitHelper object created.
+31-03-2020 16:03:795 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+31-03-2020 16:03:800 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+31-03-2020 16:03:800 INFO  WaitHelper :126 - Page is loded
+31-03-2020 16:03:284 INFO  Base :142 - Initialise WebDriver with hashcode :1624972302
+31-03-2020 16:03:292 INFO  WaitHelper :24 - WaitHelper object created.
+31-03-2020 16:03:299 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+31-03-2020 16:03:309 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+31-03-2020 16:03:310 INFO  WaitHelper :126 - Page is loded
+31-03-2020 16:03:845 INFO  Base :142 - Initialise WebDriver with hashcode :1624972302
+31-03-2020 16:03:852 INFO  WaitHelper :24 - WaitHelper object created.
+31-03-2020 16:03:859 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+31-03-2020 16:03:863 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+31-03-2020 16:03:863 INFO  WaitHelper :126 - Page is loded
+01-04-2020 02:04:831 INFO  Base :140 - Initialise WebDriver with hashcode :38544126
+01-04-2020 02:04:838 INFO  WaitHelper :24 - WaitHelper object created.
+01-04-2020 02:04:846 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+01-04-2020 02:04:854 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+01-04-2020 02:04:854 INFO  WaitHelper :126 - Page is loded
+01-04-2020 02:04:936 INFO  Base :140 - Initialise WebDriver with hashcode :38544126
+01-04-2020 02:04:939 INFO  WaitHelper :24 - WaitHelper object created.
+01-04-2020 02:04:949 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+01-04-2020 02:04:955 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+01-04-2020 02:04:956 INFO  WaitHelper :126 - Page is loded
+01-04-2020 02:04:153 INFO  Base :186 -  Launch the url
+01-04-2020 11:04:832 INFO  Base :140 - Initialise WebDriver with hashcode :412111214
+01-04-2020 11:04:854 INFO  WaitHelper :24 - WaitHelper object created.
+01-04-2020 11:04:871 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+01-04-2020 11:04:881 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+01-04-2020 11:04:881 INFO  WaitHelper :126 - Page is loded
+01-04-2020 11:04:844 INFO  Base :186 -  Launch the url
+01-04-2020 12:04:307 INFO  Base :140 - Initialise WebDriver with hashcode :412111214
+01-04-2020 12:04:312 INFO  WaitHelper :24 - WaitHelper object created.
+01-04-2020 12:04:324 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+01-04-2020 12:04:327 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+01-04-2020 12:04:328 INFO  WaitHelper :126 - Page is loded
+01-04-2020 12:04:667 INFO  Base :186 -  Launch the url
+01-04-2020 12:04:52 INFO  Base :140 - Initialise WebDriver with hashcode :412111214
+01-04-2020 12:04:62 INFO  WaitHelper :24 - WaitHelper object created.
+01-04-2020 12:04:80 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+01-04-2020 12:04:94 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+01-04-2020 12:04:95 INFO  WaitHelper :126 - Page is loded
+01-04-2020 12:04:694 INFO  Base :186 -  Launch the url
+01-04-2020 12:04:698 INFO  Base :210 - Excel Location C:\Users\varun.kandukuri\workspace\evonsys/src/main/java/com/evonsys/citi/testdataTestData.xlsx
+01-04-2020 12:04:326 INFO  Base :140 - Initialise WebDriver with hashcode :412111214
+01-04-2020 12:04:330 INFO  WaitHelper :24 - WaitHelper object created.
+01-04-2020 12:04:338 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+01-04-2020 12:04:342 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+01-04-2020 12:04:342 INFO  WaitHelper :126 - Page is loded
+01-04-2020 12:04:647 INFO  Base :186 -  Launch the url
+01-04-2020 12:04:668 INFO  Base :210 - Excel Location C:\Users\varun.kandukuri\workspace\evonsys/src/main/java/com/evonsys/citi/testdata/TestData.xlsx
+01-04-2020 13:04:244 INFO  Base :140 - Initialise WebDriver with hashcode :38544126
+01-04-2020 13:04:253 INFO  WaitHelper :24 - WaitHelper object created.
+01-04-2020 13:04:262 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+01-04-2020 13:04:270 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+01-04-2020 13:04:270 INFO  WaitHelper :126 - Page is loded
+01-04-2020 13:04:342 INFO  Base :186 -  Launch the url
+01-04-2020 13:04:685 INFO  Base :140 - Initialise WebDriver with hashcode :1624972302
+01-04-2020 13:04:690 INFO  WaitHelper :24 - WaitHelper object created.
+01-04-2020 13:04:701 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+01-04-2020 13:04:708 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+01-04-2020 13:04:708 INFO  WaitHelper :126 - Page is loded
+01-04-2020 13:04:784 INFO  Base :186 -  Launch the url
+01-04-2020 13:04:295 INFO  Base :140 - Initialise WebDriver with hashcode :412111214
+01-04-2020 13:04:299 INFO  WaitHelper :24 - WaitHelper object created.
+01-04-2020 13:04:309 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+01-04-2020 13:04:313 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+01-04-2020 13:04:313 INFO  WaitHelper :126 - Page is loded
+01-04-2020 13:04:313 INFO  Base :186 -  Launch the url
+01-04-2020 13:04:337 INFO  Base :210 - Excel Location C:\Users\varun.kandukuri\workspace\evonsys/src/main/java/com/evonsys/citi/testdata/TestData.xlsx
+01-04-2020 17:04:604 INFO  Base :140 - Initialise WebDriver with hashcode :38544126
+01-04-2020 17:04:615 INFO  WaitHelper :24 - WaitHelper object created.
+01-04-2020 17:04:636 INFO  WaitHelper :35 - Implicit Wait has been set to 120 SECONDS
+01-04-2020 17:04:645 INFO  WaitHelper :125 - Waiting for Page Load Time of 200 SECONDS
+01-04-2020 17:04:645 INFO  WaitHelper :126 - Page is loded
+01-04-2020 17:04:726 INFO  Base :186 -  Launch the url
+02-04-2020 00:04:911 INFO  Base :140 - Initialise WebDriver with hashcode :412111214
+02-04-2020 00:04:919 INFO  WaitUtil :24 - WaitHelper object created.
+02-04-2020 00:04:935 INFO  WaitUtil :35 - Implicit Wait has been set to 120 SECONDS
+02-04-2020 00:04:951 INFO  WaitUtil :125 - Waiting for Page Load Time of 200 SECONDS
+02-04-2020 00:04:951 INFO  WaitUtil :126 - Page is loded
+02-04-2020 00:04:659 INFO  Base :186 -  Launch the url
+02-04-2020 00:04:676 INFO  Base :210 - Excel Location C:\Users\varun.kandukuri\workspace\evonsys/src/main/java/com/evonsys/citi/testdata/TestData.xlsx
+02-04-2020 11:04:158 INFO  Base :140 - Initialise WebDriver with hashcode :38544126
+02-04-2020 11:04:170 INFO  WaitUtil :24 - WaitHelper object created.
+02-04-2020 11:04:183 INFO  WaitUtil :35 - Implicit Wait has been set to 120 SECONDS
+02-04-2020 11:04:188 INFO  WaitUtil :125 - Waiting for Page Load Time of 200 SECONDS
+02-04-2020 11:04:189 INFO  WaitUtil :126 - Page is loded
+02-04-2020 11:04:409 INFO  Base :186 -  Launch the url
