@@ -124,9 +124,10 @@ public class ExcelUtil {
     } 
 	
 	public static void main(String[] args) {
+		String sheetName = "Login";
 	 ExcelUtil	 excelHelper = new ExcelUtil();
-	 String excelLocation = ResourceUtil.getResourcePath("/src/main/java/com/evonsys/citi/testdata/TestData.xlsx");
-	 Object[][] data = excelHelper.getExcelData(excelLocation, "LoginData");
+	 String excelLocation = ResourceUtil.getResourcePath("\\src\\main\\java\\com\\evonsys\\citi\\testdata\\TestData.xlsx");
+	 Object[][] data = excelHelper.getExcelData(excelLocation.trim(), sheetName.trim());
 	// print2D(data);
 	
 	 /*excelHelper.updateResult(excelLocation, "Status", "Login", "PASS");

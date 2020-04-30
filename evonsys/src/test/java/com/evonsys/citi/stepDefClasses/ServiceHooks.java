@@ -15,6 +15,8 @@ public class ServiceHooks {
 	public void initializeTest(){
 		base = new BaseCucumber();
 		base.setBrowser(BrowserType.CHROME);
+		base.getApplicationUrl();
+		
 	}
 
 	@After

@@ -9,7 +9,7 @@ import com.aventstack.extentreports.Status;
 import com.aventstack.extentreports.markuputils.ExtentColor;
 import com.aventstack.extentreports.markuputils.MarkupHelper;
 import com.evonsys.citi.base.Base;
-import com.evonsys.citi.base.Base1;
+
 import com.evonsys.citi.util.browserConfiguration.config.ObjectReader;
 
 public class TestScreenshot extends Base {

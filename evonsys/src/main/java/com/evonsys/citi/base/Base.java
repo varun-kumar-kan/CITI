@@ -46,7 +46,7 @@ public class Base {
 	
 	public static ExtentReports extent;
 	public static ExtentTest test;
-	public WebDriver driver;
+	public static WebDriver driver;
 	private static Logger log = LoggerUtil.getLogger(Base.class);
 	public static File reportDirectory;
 	
@@ -61,8 +61,8 @@ public class Base {
 	public void beforeTest(){
 		try {
 			ObjectReader.reader = new PropertyReader();
-			reportDirectory = new File(ResourceUtil.getResourcePath("/screenshots"));
-			//reportDirectory = new File("/screenshots");
+			//reportDirectory = new File(ResourceUtil.getResourcePath("/screenshots"));
+			reportDirectory = new File("./screenshots");
 			setUpDriver(ObjectReader.reader.getBrowserType());
 			test = extent.createTest(getClass().getSimpleName());//executed with the class initialized
 		} catch (Exception e) {
@@ -97,7 +97,7 @@ public class Base {
 		extent.flush();
 	}
 	
-	@AfterTest
+	//@AfterTest
 	public void tearDown(){
 		if(driver!=null){
 			driver.quit();
@@ -160,8 +160,8 @@ public class Base {
 		try{
 			destFile = new File(reportDirectory+"/"+fileName+"_"+formater.format(calender.getTime())+".png");
 			Files.copy(srceFile, destFile);
-			Reporter.log("<a href='"+destFile.getAbsolutePath()+"'><img src='"+destFile.getAbsolutePath()+"'height='100' width='100'/></a>");
-			//Reporter.log("<a href ="+destFile.getAbsolutePath()+"><img src = "+destFile.getAbsolutePath()+"height='100' width = '100'></img></a>");
+			//Reporter.log("<a href='"+destFile.getAbsolutePath()+"'><img src='"+destFile.getAbsolutePath()+"'height='100' width='100'/></a>");
+			Reporter.log("<a href ='"+destFile.getAbsolutePath()+"'><img src = '"+destFile.getAbsolutePath()+"'/></a>");
 			return destFile.toString();
 		}catch(Exception e){
 			e.printStackTrace();

@@ -85,5 +85,6 @@ public class JavaScriptUtil {
 	 */
 	public void clickElement(WebElement element){
 		executeScript("arguments[0].click();", element);
+		log.info("click on element");
 	}
 }

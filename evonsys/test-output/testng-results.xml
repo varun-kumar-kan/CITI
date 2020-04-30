@@ -1,67 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
-    <line>
-      <![CDATA[<a href='C:\Users\varun.kandukuri\workspace\evonsys\screenshots\TestScreenshot_02_04_2020_11_45_59.png'><img src='C:\Users\varun.kandukuri\workspace\evonsys\screenshots\TestScreenshot_02_04_2020_11_45_59.png'height='100' width='100'/></a>]]>
-    </line>
-    <line>
-      <![CDATA[<a href='C:\Users\varun.kandukuri\workspace\evonsys\screenshots\test_02_04_2020_11_45_59.png'><img src='C:\Users\varun.kandukuri\workspace\evonsys\screenshots\test_02_04_2020_11_45_59.png'height='100' width='100'/></a>]]>
-    </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="19114" started-at="2020-04-02T06:15:42Z" finished-at="2020-04-02T06:16:01Z">
+  <suite name="Default suite" duration-ms="356" started-at="2020-04-30T11:30:34Z" finished-at="2020-04-30T11:30:34Z">
     <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.evonsys.citi.runnerClasses.HCM_LoginRunner@402f32ff]" name="feature" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
     </groups>
-    <test name="Default test" duration-ms="19114" started-at="2020-04-02T06:15:42Z" finished-at="2020-04-02T06:16:01Z">
-      <class name="com.evonsys.citi.utils.TestScreenshot">
-        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.evonsys.citi.utils.TestScreenshot@2ac273d3]" name="beforeSuite" is-config="true" duration-ms="294" started-at="2020-04-02T11:45:41Z" finished-at="2020-04-02T11:45:42Z">
+    <test name="Default test" duration-ms="356" started-at="2020-04-30T11:30:34Z" finished-at="2020-04-30T11:30:34Z">
+      <class name="com.evonsys.citi.runnerClasses.HCM_LoginRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.evonsys.citi.runnerClasses.HCM_LoginRunner@402f32ff]" name="setUpClass" is-config="true" duration-ms="254" started-at="2020-04-30T17:00:34Z" finished-at="2020-04-30T17:00:34Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- beforeSuite -->
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.evonsys.citi.utils.TestScreenshot@2ac273d3]" name="beforeTest" is-config="true" duration-ms="11973" started-at="2020-04-02T11:45:42Z" finished-at="2020-04-02T11:45:54Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="getApplicationUrl()[pri:0, instance:com.evonsys.citi.utils.TestScreenshot@2ac273d3]" name="getApplicationUrl" is-config="true" duration-ms="5188" started-at="2020-04-02T11:45:54Z" finished-at="2020-04-02T11:45:59Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- getApplicationUrl -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.evonsys.citi.utils.TestScreenshot@2ac273d3]" name="beforeMethod" is-config="true" duration-ms="3" started-at="2020-04-02T11:45:59Z" finished-at="2020-04-02T11:45:59Z">
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.evonsys.citi.runnerClasses.HCM_LoginRunner@402f32ff]" name="feature" duration-ms="6" started-at="2020-04-30T17:00:34Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2020-04-30T17:00:34Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void com.evonsys.citi.utils.TestScreenshot.test() throws java.io.IOException]]>
+                <![CDATA[HCM_Login to application]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="test()[pri:0, instance:com.evonsys.citi.utils.TestScreenshot@2ac273d3]" name="test" duration-ms="362" started-at="2020-04-02T11:45:59Z" finished-at="2020-04-02T11:45:59Z">
-          <reporter-output>
-            <line>
-              <![CDATA[<a href='C:\Users\varun.kandukuri\workspace\evonsys\screenshots\TestScreenshot_02_04_2020_11_45_59.png'><img src='C:\Users\varun.kandukuri\workspace\evonsys\screenshots\TestScreenshot_02_04_2020_11_45_59.png'height='100' width='100'/></a>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- test -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.evonsys.citi.utils.TestScreenshot@2ac273d3]" name="afterMethod" is-config="true" duration-ms="819" started-at="2020-04-02T11:45:59Z" finished-at="2020-04-02T11:46:00Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=test status=SUCCESS method=TestScreenshot.test()[pri:0, instance:com.evonsys.citi.utils.TestScreenshot@2ac273d3] output=<a href='C:\Users\varun.kandukuri\workspace\evonsys\screenshots\TestScreenshot_02_04_2020_11_45_59.png'><img src='C:\Users\varun.kandukuri\workspace\evonsys\screenshots\TestScreenshot_02_04_2020_11_45_59.png'height='100' width='100'/></a>]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[<a href='C:\Users\varun.kandukuri\workspace\evonsys\screenshots\test_02_04_2020_11_45_59.png'><img src='C:\Users\varun.kandukuri\workspace\evonsys\screenshots\test_02_04_2020_11_45_59.png'height='100' width='100'/></a>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.evonsys.citi.utils.TestScreenshot@2ac273d3]" name="tearDown" is-config="true" duration-ms="748" started-at="2020-04-02T11:46:00Z" finished-at="2020-04-02T11:46:01Z">
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.evonsys.citi.runnerClasses.HCM_LoginRunner@402f32ff]" name="tearDownClass" is-config="true" duration-ms="13" started-at="2020-04-30T17:00:34Z" finished-at="2020-04-30T17:00:34Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.evonsys.citi.utils.TestScreenshot -->
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.evonsys.citi.runnerClasses.HCM_LoginRunner -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

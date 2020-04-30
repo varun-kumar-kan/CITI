@@ -12,7 +12,7 @@ public class VerificationUtil {
 	private WebDriver driver;
 	private Logger log = LoggerUtil.getLogger(VerificationUtil.class);
 	
-	public VerificationUtil(){
+	public VerificationUtil(WebDriver driver){
 		this.driver = driver;
 	}
 	

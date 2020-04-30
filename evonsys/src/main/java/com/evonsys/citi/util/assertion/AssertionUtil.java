@@ -1,13 +1,18 @@
 package com.evonsys.citi.util.assertion;
 
 import org.apache.log4j.Logger;
+import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 
 import com.evonsys.citi.util.logger.LoggerUtil;
 
 public class AssertionUtil {
+	private WebDriver driver;
 	private static Logger log = LoggerUtil.getLogger(AssertionUtil.class);
 
+	public AssertionUtil(WebDriver driver){
+		this.driver = driver;
+	}
 	public static void verifyText(String actual, String expected){
 		log.info("verify text "+actual +" with "+ expected	);
 		Assert.assertEquals(actual, expected);

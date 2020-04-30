@@ -1,5 +1,7 @@
 package com.evonsys.citi.util.pageObject;
 
+import java.util.concurrent.TimeUnit;
+
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -30,6 +32,7 @@ public class LoginPage {
 		this.driver = driver;
 		PageFactory.initElements(driver, this);
 		waitHelper = new WaitUtil(driver);
+		//wait.pageLoadTime(ObjectReader.reader.getPageLoadTime(), TimeUnit.SECONDS);
 		//waitHelper.waitForElement(signin, ObjectReader.reader.getExplicitWait());
 		new Base().getNaviationScreen(driver);
 		log.info("Login Page Object created");

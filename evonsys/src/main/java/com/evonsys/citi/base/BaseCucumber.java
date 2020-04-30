@@ -6,6 +6,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.remote.BrowserType;
 
 import com.evonsys.citi.util.browserConfiguration.OS;
+import com.evonsys.citi.util.browserConfiguration.config.ObjectReader;
 
 public class BaseCucumber {
 	
@@ -34,5 +35,8 @@ public class BaseCucumber {
 		}
 		return driver;
 	}
-
+	
+	public void getApplicationUrl(){
+		driver.get(ObjectReader.reader.getUrl());
+	}
 }

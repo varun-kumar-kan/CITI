@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Suite">
-  <test name="TestScreenshot">
+  <test name="Test">
     <classes>
-      <class name="com.evonsys.citi.utils.TestScreenshot"/>
-   
+      <class name="org.junit.runner.RunWith.HCM_LoginRunner"/>
+    
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
- 

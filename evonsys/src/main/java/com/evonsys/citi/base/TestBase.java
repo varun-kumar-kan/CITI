@@ -12,10 +12,10 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.testng.annotations.BeforeClass;
 
 import com.evonsys.citi.utils.WaitLoadUtil;
-import com.evonsys.qa.pageObject.LoginPage;
+//import com.evonsys.qa.pageObject.LoginPage;
 
 public class TestBase {
-	LoginPage loginPage = new LoginPage();//instance variable
+//	LoginPage loginPage = new LoginPage();//instance variable
 	public static WebDriver driver;//static variable
 	public static Properties prop;
 	public TestBase() {
