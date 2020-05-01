@@ -6,6 +6,7 @@ import org.apache.log4j.Logger;
 
 import com.evonsys.citi.base.Base;
 import com.evonsys.citi.base.BaseCucumber;
+import com.evonsys.citi.testng.HCM_Login;
 import com.evonsys.citi.util.assertion.VerificationUtil;
 import com.evonsys.citi.util.browserConfiguration.config.ObjectReader;
 import com.evonsys.citi.util.javaScript.JavaScriptUtil;
@@ -16,7 +17,6 @@ import com.evonsys.citi.util.wait.WaitUtil;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import testng.HCM_Login;
 
 public class HCM_LoginStepDef extends Base{
 	private final Logger log = LoggerUtil.getLogger(HCM_Login.class);

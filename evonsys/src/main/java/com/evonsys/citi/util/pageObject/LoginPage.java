@@ -1,4 +1,9 @@
+
+
 package com.evonsys.citi.util.pageObject;
+
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
 
 import java.util.concurrent.TimeUnit;
 
@@ -21,7 +26,7 @@ public class LoginPage {
 	WaitUtil waitHelper;
 	
 	//page objects
-	@FindBy(xpath = "")
+	@FindBy(xpath = "input[class='_2zrpKA _1dBPDZ']")
 	WebElement signin;
 	
 	 @FindBy(how=How.ID,using="userName")                
@@ -42,3 +47,44 @@ public class LoginPage {
 	
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
