@@ -1,34 +1,154 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
+    <line>
+      <![CDATA[<a href ='C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\blank_03_06_2020_10_32_36.png'><img src = 'C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\blank_03_06_2020_10_32_36.png'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\blank_03_06_2020_10_32_36.png'><img src = 'C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\blank_03_06_2020_10_32_36.png'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I entered Username_03_06_2020_10_32_36.png'><img src = 'C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I entered Username_03_06_2020_10_32_36.png'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I entered password_03_06_2020_10_32_37.png'><img src = 'C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I entered password_03_06_2020_10_32_37.png'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I clicked on Login button_03_06_2020_10_32_40.png'><img src = 'C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I clicked on Login button_03_06_2020_10_32_40.png'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\blank_03_06_2020_10_32_40.png'><img src = 'C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\blank_03_06_2020_10_32_40.png'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\i clicked o Launch Web Interface icon_03_06_2020_10_32_41.png'><img src = 'C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\i clicked o Launch Web Interface icon_03_06_2020_10_32_41.png'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I clicked on Employee option_03_06_2020_10_32_46.png'><img src = 'C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I clicked on Employee option_03_06_2020_10_32_46.png'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I clicked on Expense tab_03_06_2020_10_33_13.png'><img src = 'C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I clicked on Expense tab_03_06_2020_10_33_13.png'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I clicked on Create Expense button_03_06_2020_10_33_18.png'><img src = 'C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I clicked on Create Expense button_03_06_2020_10_33_18.png'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I test in Business Reason field_03_06_2020_10_33_23.png'><img src = 'C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I test in Business Reason field_03_06_2020_10_33_23.png'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I selected Business Meals option from Category dropdown_03_06_2020_10_33_26.png'><img src = 'C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I selected Business Meals option from Category dropdown_03_06_2020_10_33_26.png'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I entered 1000 rs in Receipt Amount_03_06_2020_10_33_29.png'><img src = 'C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I entered 1000 rs in Receipt Amount_03_06_2020_10_33_29.png'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I selected INR in Currency dropdown_03_06_2020_10_33_29.png'><img src = 'C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I selected INR in Currency dropdown_03_06_2020_10_33_29.png'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\feature_03_06_2020_10_33_32.png'><img src = 'C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\feature_03_06_2020_10_33_32.png'/></a>]]>
+    </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="356" started-at="2020-04-30T11:30:34Z" finished-at="2020-04-30T11:30:34Z">
+  <suite name="Default suite" duration-ms="65595" started-at="2020-06-03T05:02:28Z" finished-at="2020-06-03T05:03:33Z">
     <groups>
       <group name="cucumber">
-        <method signature="AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.evonsys.citi.runnerClasses.HCM_LoginRunner@402f32ff]" name="feature" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+        <method signature="HCM_LoginRunner.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.evonsys.citi.runnerClasses.HCM_LoginRunner@61832929]" name="feature" class="com.evonsys.citi.runnerClasses.HCM_LoginRunner"/>
       </group> <!-- cucumber -->
     </groups>
-    <test name="Default test" duration-ms="356" started-at="2020-04-30T11:30:34Z" finished-at="2020-04-30T11:30:34Z">
+    <test name="Default test" duration-ms="65595" started-at="2020-06-03T05:02:28Z" finished-at="2020-06-03T05:03:33Z">
       <class name="com.evonsys.citi.runnerClasses.HCM_LoginRunner">
-        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.evonsys.citi.runnerClasses.HCM_LoginRunner@402f32ff]" name="setUpClass" is-config="true" duration-ms="254" started-at="2020-04-30T17:00:34Z" finished-at="2020-04-30T17:00:34Z">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.evonsys.citi.runnerClasses.HCM_LoginRunner@61832929]" name="beforeSuite" is-config="true" duration-ms="175" started-at="2020-06-03T10:32:27Z" finished-at="2020-06-03T10:32:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.evonsys.citi.runnerClasses.HCM_LoginRunner@61832929]" name="beforeTest" is-config="true" duration-ms="7311" started-at="2020-06-03T10:32:28Z" finished-at="2020-06-03T10:32:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.evonsys.citi.runnerClasses.HCM_LoginRunner@61832929]" name="setUpClass" is-config="true" duration-ms="389" started-at="2020-06-03T10:32:35Z" finished-at="2020-06-03T10:32:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.evonsys.citi.runnerClasses.HCM_LoginRunner@402f32ff]" name="feature" duration-ms="6" started-at="2020-04-30T17:00:34Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2020-04-30T17:00:34Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.evonsys.citi.runnerClasses.HCM_LoginRunner@61832929]" name="beforeMethod" is-config="true" duration-ms="6" started-at="2020-06-03T10:32:35Z" finished-at="2020-06-03T10:32:35Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[HCM_Login to application]]>
+                <![CDATA[public void com.evonsys.citi.runnerClasses.HCM_LoginRunner.feature(cucumber.api.testng.CucumberFeatureWrapper)]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.evonsys.citi.runnerClasses.HCM_LoginRunner@61832929]" name="feature" duration-ms="56777" started-at="2020-06-03T10:32:35Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2020-06-03T10:33:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[HCM UAT Service Request]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href ='C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\blank_03_06_2020_10_32_36.png'><img src = 'C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\blank_03_06_2020_10_32_36.png'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href ='C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\blank_03_06_2020_10_32_36.png'><img src = 'C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\blank_03_06_2020_10_32_36.png'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href ='C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I entered Username_03_06_2020_10_32_36.png'><img src = 'C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I entered Username_03_06_2020_10_32_36.png'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href ='C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I entered password_03_06_2020_10_32_37.png'><img src = 'C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I entered password_03_06_2020_10_32_37.png'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href ='C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I clicked on Login button_03_06_2020_10_32_40.png'><img src = 'C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I clicked on Login button_03_06_2020_10_32_40.png'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href ='C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\blank_03_06_2020_10_32_40.png'><img src = 'C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\blank_03_06_2020_10_32_40.png'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href ='C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\i clicked o Launch Web Interface icon_03_06_2020_10_32_41.png'><img src = 'C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\i clicked o Launch Web Interface icon_03_06_2020_10_32_41.png'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href ='C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I clicked on Employee option_03_06_2020_10_32_46.png'><img src = 'C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I clicked on Employee option_03_06_2020_10_32_46.png'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href ='C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I clicked on Expense tab_03_06_2020_10_33_13.png'><img src = 'C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I clicked on Expense tab_03_06_2020_10_33_13.png'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href ='C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I clicked on Create Expense button_03_06_2020_10_33_18.png'><img src = 'C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I clicked on Create Expense button_03_06_2020_10_33_18.png'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href ='C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I test in Business Reason field_03_06_2020_10_33_23.png'><img src = 'C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I test in Business Reason field_03_06_2020_10_33_23.png'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href ='C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I selected Business Meals option from Category dropdown_03_06_2020_10_33_26.png'><img src = 'C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I selected Business Meals option from Category dropdown_03_06_2020_10_33_26.png'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href ='C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I entered 1000 rs in Receipt Amount_03_06_2020_10_33_29.png'><img src = 'C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I entered 1000 rs in Receipt Amount_03_06_2020_10_33_29.png'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href ='C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I selected INR in Currency dropdown_03_06_2020_10_33_29.png'><img src = 'C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\I selected INR in Currency dropdown_03_06_2020_10_33_29.png'/></a>]]>
+            </line>
+          </reporter-output>
         </test-method> <!-- feature -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.evonsys.citi.runnerClasses.HCM_LoginRunner@402f32ff]" name="tearDownClass" is-config="true" duration-ms="13" started-at="2020-04-30T17:00:34Z" finished-at="2020-04-30T17:00:34Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.evonsys.citi.runnerClasses.HCM_LoginRunner@61832929]" name="afterMethod" is-config="true" duration-ms="1000" started-at="2020-06-03T10:33:32Z" finished-at="2020-06-03T10:33:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=feature status=SUCCESS method=HCM_LoginRunner.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.evonsys.citi.runnerClasses.HCM_LoginRunner@61832929] output=<a href ='C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\blank_03_06_2020_10_32_36.png'><img src = 'C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\blank_03_06_2020_10_32_36.png'/></a>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href ='C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\feature_03_06_2020_10_33_32.png'><img src = 'C:\Users\varun.kandukuri\git\CITI\evonsys\.\screenshots\feature_03_06_2020_10_33_32.png'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.evonsys.citi.runnerClasses.HCM_LoginRunner@61832929]" name="tearDown" is-config="true" duration-ms="7" started-at="2020-06-03T10:33:33Z" finished-at="2020-06-03T10:33:33Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- tearDownClass -->
+        </test-method> <!-- tearDown -->
       </class> <!-- com.evonsys.citi.runnerClasses.HCM_LoginRunner -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->

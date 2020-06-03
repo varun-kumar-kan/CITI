@@ -21,46 +21,49 @@ public class HCMPage extends Base {
 	private WebDriver driver;
 	private final static Logger log = LoggerUtil.getLogger(HCMPage.class);
 	WaitUtil wait;
-	
 
-	
-	public HCMPage(WebDriver driver){
+	public HCMPage(WebDriver driver) {
 		this.driver = driver;
 		PageFactory.initElements(driver, this);
 		wait = new WaitUtil(driver);
 		new Base().getNaviationScreen(driver);
 		wait.pageLoadTime(ObjectReader.reader.getPageLoadTime(), TimeUnit.SECONDS);
 		log.info("Welcome to Login Page");
-		test.log(Status.INFO, "Welcome to Login Page");	
-		
+		test.log(Status.INFO, "Welcome to Login Page");
+
 	}
-	
-	
+
 	@FindBy(id = "txtUserID")
-	//@FindBy(xpath = "//input[@id='txtUserID']")
+	// @FindBy(xpath = "//input[@id='txtUserID']")
 	private WebElement txt_VarunUserName;
-	
-	@FindBy(id="txtPassword")
-	//@FindBy(xpath = "//input[@id='txtPassword']")
+
+	@FindBy(id = "txtPassword")
+	// @FindBy(xpath = "//input[@id='txtPassword']")
 	private WebElement txt_VarunPassword;
-	
-	@FindBy(id="sub")
-	//@FindBy(xpath = "//button[@id='sub']")
+
+	@FindBy(id = "sub")
+	// @FindBy(xpath = "//button[@id='sub']")
 	private WebElement btn_Submit;
-	
+
 	public WebElement getBtn_Submit() throws IOException {
-		/*log.info("I Clicked on "+btn_Submit.getText()+" button");
-		test.pass("I clicked on "+btn_Submit.getText()+" button").addScreenCaptureFromPath("./screenshots");
-		test.log(Status.PASS, "I clicked on Submit button").addScreenCaptureFromPath("./screenshots");
-	*/	wait.waitForElementClickable(btn_Submit, 60);
+		/*
+		 * log.info("I Clicked on "+btn_Submit.getText()+" button");
+		 * test.pass("I clicked on "+btn_Submit.getText()+" button").
+		 * addScreenCaptureFromPath("./screenshots"); test.log(Status.PASS,
+		 * "I clicked on Submit button").addScreenCaptureFromPath(
+		 * "./screenshots");
+		 */ wait.waitForElementClickable(btn_Submit, 60);
 		wait.pageLoadTime(ObjectReader.reader.getPageLoadTime(), TimeUnit.SECONDS);
 		return btn_Submit;
 	}
 
 	public WebElement getTxt_Password() {
-		/*log.info("I entered password "+txt_VarunPassword.getAttribute("value")+" in password field");
-		test.log(Status.PASS, "I entered password "+txt_VarunPassword.getAttribute("value")+" in password field");
-	*/	wait.waitForElement(txt_VarunPassword, 60);
+		/*
+		 * log.info("I entered password "+txt_VarunPassword.getAttribute("value"
+		 * )+" in password field"); test.log(Status.PASS,
+		 * "I entered password "+txt_VarunPassword.getAttribute("value")
+		 * +" in password field");
+		 */ wait.waitForElement(txt_VarunPassword, 60);
 		return txt_VarunPassword;
 	}
 
@@ -69,14 +72,12 @@ public class HCMPage extends Base {
 	}
 
 	public WebElement getTxt_UserName() {
-		/*log.info("I entered username "+txt_VarunUserName+" in username field");
-		test.log(Status.PASS, "I entered username "+txt_VarunUserName+" in username field");	
-	*/	wait.waitForElement(txt_VarunUserName, 60);
+		/*
+		 * log.info("I entered username "+txt_VarunUserName+" in username field"
+		 * ); test.log(Status.PASS,
+		 * "I entered username "+txt_VarunUserName+" in username field");
+		 */ wait.waitForElement(txt_VarunUserName, 60);
 		return txt_VarunUserName;
 	}
-
-	
-
-	
 
 }

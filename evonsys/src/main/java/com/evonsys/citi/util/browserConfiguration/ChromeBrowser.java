@@ -40,7 +40,7 @@ public class ChromeBrowser {
 			return new ChromeDriver(cap);
 		}
 		else if(System.getProperty("os.name").contains("Window")){
-			System.setProperty("webdriver.chrome.driver", ResourceUtil.getResourcePath("./src/main/java/com/evonsys/citi/drivers/chromedriver.exe"));
+			System.setProperty("webdriver.chrome.driver", ResourceUtil.getResourcePath("/src/main/java/com/evonsys/citi/drivers/chromedriver.exe"));
 			return new ChromeDriver(cap);
 		}
 		else if(System.getProperty("os.name").contains("Linux")){
@@ -50,12 +50,12 @@ public class ChromeBrowser {
 		return null;
 	}
 	public static void main(String[] args) {
-		ChromeBrowser obj = new ChromeBrowser();
+		/*ChromeBrowser obj = new ChromeBrowser();
 		WebDriver driver = obj.getChromeDriver(obj.getChromeOptions());
 		System.out.println(System.getProperty("user.dir"));
-		
-		/*System.setProperty("webdriver.chrome.driver", "./src/main/java/com/evonsys/citi/drivers/chromedriver.exe");
-		WebDriver driver = new ChromeDriver();*/
+		*/
+		System.setProperty("webdriver.chrome.driver", "./src/main/java/com/evonsys/citi/drivers/chromedriver.exe");
+		WebDriver driver = new ChromeDriver();
 		driver.get("http://www.google.com");
 	}
 }

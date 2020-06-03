@@ -36,7 +36,5 @@ public class BaseCucumber {
 		return driver;
 	}
 	
-	public void getApplicationUrl(){
-		driver.get(ObjectReader.reader.getUrl());
-	}
+	
 }

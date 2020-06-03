@@ -54,7 +54,9 @@ public class Base {
 	public void beforeSuite(){
 		extent = ExtentManager.getInstance();
 	}
-	
+	public void getHCM_UAT_Url(){
+		driver.get(ObjectReader.reader.get_HCM_UAT_Url());
+	}
 
 	
 	@BeforeTest
@@ -65,6 +67,8 @@ public class Base {
 			reportDirectory = new File("./screenshots");
 			setUpDriver(ObjectReader.reader.getBrowserType());
 			test = extent.createTest(getClass().getSimpleName());//executed with the class initialized
+			getHCM_UAT_Url();
+			System.out.println("launched url");
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -213,9 +217,14 @@ public class Base {
 		return data;
 		
 	}
-	@BeforeClass
+	//@BeforeClass
 	public void getApplicationUrl(){
 		driver.get(ObjectReader.reader.getUrl());
 		writeInfoReport(" Launch the url");
 	}
+	
+	
+	
+	
+	
 }

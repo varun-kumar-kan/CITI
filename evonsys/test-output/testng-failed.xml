@@ -5,9 +5,13 @@
     <classes>
       <class name="com.evonsys.citi.runnerClasses.HCM_LoginRunner">
         <methods>
+          <include name="beforeMethod"/>
           <include name="tearDown"/>
-          <include name="setUp"/>
-          <include name="feature"/>
+          <include name="feature" invocation-numbers="0"/>
+          <include name="beforeSuite"/>
+          <include name="beforeTest"/>
+          <include name="setUpClass"/>
+          <include name="afterMethod"/>
         </methods>
       </class> <!-- com.evonsys.citi.runnerClasses.HCM_LoginRunner -->
     </classes>

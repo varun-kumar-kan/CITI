@@ -10,4 +10,9 @@ public interface ConfigReader {
 	public String getUrl();
 	public String getVarunUserName();
 	public String getVarunPassword();
+	public String get_HCM_UAT_Url();
+	public String getHcmCreationOperator6();
+	public String getHcmApprovedOperator1();
+	
+	
 }

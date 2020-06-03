@@ -1,26 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
-  <test name="Test(failed)">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="none">
+  <test name="Test2(failed)" parallel="none">
     <classes>
-      <class name="testng.HCM_Login">
+      <class name="com.evonsys.citi.runnerClasses.HCM_LoginRunner">
         <methods>
-          <include name="navigateTabs"/>
-          <include name="beforeMethod"/>
-          <include name="createServiceRequest"/>
-          <include name="getApplicationUrl"/>
-          <include name="afterMethod"/>
+          <include name="tearDown"/>
+          <include name="feature"/>
+          <include name="setUpClass"/>
         </methods>
-      </class> <!-- testng.HCM_Login -->
-      <class name="testng.InvalidLoginCredientials">
-        <methods>
-          <include name="beforeMethod"/>
-          <include name="beforeSuite"/>
-          <include name="getApplicationUrl"/>
-          <include name="beforeTest"/>
-          <include name="afterMethod"/>
-        </methods>
-      </class> <!-- testng.InvalidLoginCredientials -->
+      </class> <!-- com.evonsys.citi.runnerClasses.HCM_LoginRunner -->
     </classes>
-  </test> <!-- Test(failed) -->
+  </test> <!-- Test2(failed) -->
 </suite> <!-- Failed suite [Suite] -->

@@ -69,5 +69,23 @@ public class PropertyReader implements ConfigReader {
 		}*/
 		return OR.getProperty("varunPassword");
 	}
+	
+	public String get_HCM_UAT_Url(){
+		return OR.getProperty("hcmUAT");
+		
+		
+	}
+public String getHcmCreationOperator6(){
+	return OR.getProperty("hcmCreationOperator6");
+}
+public String getHcmApprovedOperator1(){
+	return OR.getProperty("hcmApprovedOperator1");
+}
 
+
+
+	
+	
+	
+	
 }
