@@ -50,10 +50,55 @@ public class HCM_ExpensePage extends Base {
 	@FindBy(linkText = "Attach Receipt")
 	private WebElement lnkAttachReceipt;
 	
-	@FindBy(id="Browsefiles")
+	@FindBy(xpath="//button[@id='Browsefiles']")
 	private WebElement btnSelectReceipt;
 	
+	@FindBy(id="ModalButtonSubmit")
+	private WebElement btnAttach;
 	
+	
+	@FindBy(xpath="//textarea[contains(@name,'Notes')]")
+	private WebElement txtNotes;
+	
+	@FindBy(xpath="//button[contains(@title,'submit')]")
+	private WebElement btnSubmit;
+	
+	@FindBy(xpath = "//div[@data-test-id='2015012615503109611417']")
+	private WebElement txtRouting;
+	
+	
+	public WebElement getTxtRouting() {
+		return txtRouting;
+	}
+
+	public void setTxtRouting(WebElement txtRouting) {
+		this.txtRouting = txtRouting;
+	}
+
+	public WebElement getBtnSubmit() {
+		return btnSubmit;
+	}
+
+	public void setBtnSubmit(WebElement btnSubmit) {
+		this.btnSubmit = btnSubmit;
+	}
+
+	public WebElement getTxtNotes() {
+		return txtNotes;
+	}
+
+	public void setTxtNotes(WebElement txtNotes) {
+		this.txtNotes = txtNotes;
+	}
+
+	public WebElement getBtnAttach() {
+		return btnAttach;
+	}
+
+	public void setBtnAttach(WebElement btnAttach) {
+		this.btnAttach = btnAttach;
+	}
+
 	public WebElement getBtnSelectReceipt() {
 		return btnSelectReceipt;
 	}
