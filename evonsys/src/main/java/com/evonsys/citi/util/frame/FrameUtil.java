@@ -1,3 +1,8 @@
+/**
+ * Designed By : Varun
+ * Class Name : Frame Util
+ * Usage : Deals with frames reusable code
+ **/
 package com.evonsys.citi.util.frame;
 
 import org.apache.log4j.Logger;

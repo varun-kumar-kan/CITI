@@ -1,3 +1,8 @@
+/**
+ * Designed By : Varun
+ * Class Name : ResourceUtil
+ * Usage : Gives the path from Project location in local system 
+ */
 package com.evonsys.citi.util.resource;
 
 import org.apache.log4j.Logger;

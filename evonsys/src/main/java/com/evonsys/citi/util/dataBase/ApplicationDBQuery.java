@@ -1,3 +1,8 @@
+/**
+ * Designed By : Varun
+ * Class Name : Application DB Query
+ * Usage : Read data from DB
+ */
 package com.evonsys.citi.util.dataBase;
 
 import java.sql.ResultSet;

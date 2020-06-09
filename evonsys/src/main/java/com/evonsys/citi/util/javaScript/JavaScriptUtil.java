@@ -1,3 +1,9 @@
+/**
+ * Designed By : Varun
+ * Class Name : Java Script Util
+ * Usage : Deals with Java script reusable code
+ */
+
 package com.evonsys.citi.util.javaScript;
 
 import org.apache.log4j.Logger;

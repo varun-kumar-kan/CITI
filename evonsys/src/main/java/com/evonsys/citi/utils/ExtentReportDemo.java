@@ -1,3 +1,8 @@
+/**
+ * Designed By : Varun
+ * Class Name : ExtentReportDemo
+ * Usage : Sets the HTML Report formater
+ */
 package com.evonsys.citi.utils;
 
 import org.openqa.selenium.WebDriver;

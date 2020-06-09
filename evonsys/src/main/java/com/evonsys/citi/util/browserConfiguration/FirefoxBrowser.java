@@ -1,8 +1,7 @@
 /**
  * Designed By : Varun
  * Class Name : Firefox Browser
- * Usage : Firefox browser related Desired Capabilities and its Options
- */
+ * Usage : Deals with Firefox browser related Desired Capabilities and its Options  */
 
 package com.evonsys.citi.util.browserConfiguration;
 

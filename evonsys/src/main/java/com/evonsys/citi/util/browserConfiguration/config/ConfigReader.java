@@ -1,3 +1,8 @@
+/**
+ * Designed By : Varun
+ * Interface Name : Config Reader
+ * Usage : Maintains static data code 
+ */
 package com.evonsys.citi.util.browserConfiguration.config;
 
 import com.evonsys.citi.util.browserConfiguration.BrowserType;

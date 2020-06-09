@@ -1,3 +1,8 @@
+/**
+ * Designed By : Varun
+ * Class Name : Window Util
+ * Usage : Maintains Window class reusable code
+ */
 package com.evonsys.citi.util.window;
 
 import java.util.Set;

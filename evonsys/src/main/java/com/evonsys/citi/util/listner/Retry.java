@@ -1,3 +1,8 @@
+/**
+ * Designed By : Varun
+ * Class Name : Retry
+ * Usage : Listens the failed Test Cases and executes for 3 times again
+ */
 package com.evonsys.citi.util.listner;
 
 import org.apache.log4j.Logger;

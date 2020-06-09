@@ -1,7 +1,7 @@
 /**
  * Desigend By: Varun
  * Class Name : Chrome Browser
- * Usage : Deals with Chrome Desired Capabilities and its Options
+ * Usage : Deals with Chrome browser Desired Capabilities and its Options
  */
 package com.evonsys.citi.util.browserConfiguration;
 

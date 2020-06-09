@@ -1,3 +1,8 @@
+/**
+ * Designed By : Varun
+ * Class Name : WaitUtil
+ * Usage : Maintains Wait class reusable code
+ */
 package com.evonsys.citi.util.wait;
 
 import java.time.Duration;

@@ -1,3 +1,8 @@
+/**
+ * Designed By : Varun
+ * Class Name : HCM_UatLoginPage
+ * Usage : Maintains Login Page elements
+ */
 package com.evonsys.citi.util.pageObject;
 
 import java.util.concurrent.TimeUnit;

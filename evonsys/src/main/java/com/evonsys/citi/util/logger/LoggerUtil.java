@@ -1,3 +1,8 @@
+/**
+ * Designed By : Varun
+ * Class Name : LoggerUtil
+ * Usage : Generates log
+ */
 package com.evonsys.citi.util.logger;
 
 import org.apache.log4j.Logger;

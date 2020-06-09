@@ -1,3 +1,8 @@
+/**
+ * Designed By : Varun
+ * Class Name : Robert Util
+ * Usage : Maintains Robert class reusable code
+ */
 package com.evonsys.citi.util.robert;
 
 import java.awt.AWTException;

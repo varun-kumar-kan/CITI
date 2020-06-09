@@ -1,3 +1,8 @@
+/**
+ * Designed By : Varun
+ * Class Name : Data Base Util
+ * Usage : Read data from Data Base
+ */
 package com.evonsys.citi.util.dataBase;
 
 import java.sql.Connection;

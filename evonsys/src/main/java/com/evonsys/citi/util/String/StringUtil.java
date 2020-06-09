@@ -1,3 +1,8 @@
+/**
+ * Designed By : Varun
+ * Class Name : String Util
+ * Usage : Maintains String class reusable code
+ */
 package com.evonsys.citi.util.String;
 
 public class StringUtil {

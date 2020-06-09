@@ -1,3 +1,8 @@
+/**
+ * Designed By : Varun
+ * Class Name : EmployeePage
+ * Usage : Maintains Employee Page elements
+ */
 package com.evonsys.citi.util.pageObject;
 
 import java.util.concurrent.TimeUnit;

@@ -1,3 +1,8 @@
+/**
+ * Designed By : Varun
+ * Class Name : ApplicationText
+ * Usage : Maintains static data in the Application
+ */
 package com.evonsys.citi.util.pageObject;
 
 import com.evonsys.citi.base.Base;
