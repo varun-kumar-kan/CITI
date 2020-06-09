@@ -131,5 +131,6 @@ public class WaitUtil {
 		WebDriverWait wait = new WebDriverWait(driver, timeOutInSeconds);
 		wait.until(ExpectedConditions.visibilityOf(element));
 		log.info(element.toString()+" is visible");
+		System.out.println("element is visible");
 	}
 }

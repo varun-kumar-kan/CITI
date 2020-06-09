@@ -21,7 +21,7 @@ import com.evonsys.citi.util.pageObject.EmployeePage;
 import com.evonsys.citi.util.pageObject.HCMPage;
 import com.evonsys.citi.util.pageObject.HCM_ExpensePage;
 import com.evonsys.citi.util.pageObject.HCM_HomePage;
-import com.evonsys.citi.util.pageObject.ServiceRequest;
+import com.evonsys.citi.util.pageObject.ServiceRequestPage;
 import com.evonsys.citi.util.select.DropDownUtil;
 
 import cucumber.api.java.en.Given;
@@ -36,7 +36,8 @@ public class HCM_ServiceRequest extends Base {
 	 
 	@Given("I Login with user credentials")
 	public void i_Login_with_user_credentials() throws InterruptedException, IOException {
-		 hcmPage.getTxt_UserName().sendKeys(ObjectReader.reader.getVarunUserName());
+		HCMPage hcmPage = new HCMPage(driver);
+		hcmPage.getTxt_UserName().sendKeys(ObjectReader.reader.getVarunUserName());
 		  captureScreen("I entered Username", driver);
 		  test.pass("I entered username "+ObjectReader.reader.getVarunUserName()+" in username field").addScreenCaptureFromPath("./screenshots");
 		  log.info("I entered username "+ObjectReader.reader.getVarunUserName()+" in username field");
@@ -157,7 +158,7 @@ public class HCM_ServiceRequest extends Base {
 			  test.pass("I clicked on Service Request tab");
 			  Thread.sleep(6000);
 			  
-			  ServiceRequest sRequest = new ServiceRequest(driver);
+			  ServiceRequestPage sRequest = new ServiceRequestPage(driver);
 			  ApplicationText a = new ApplicationText();
 			  driver.switchTo().frame(a.iframe);
 			 // driver.switchTo().frame("PegaGadget5Ifr");
@@ -266,7 +267,7 @@ public class HCM_ServiceRequest extends Base {
 		  
 		  act.moveToElement(expensePage.getTxtBusinessReason()).perform();
 		  expensePage.getTxtDate().sendKeys("04/06/2020");
-		  captureScreen("I entered 04/06/2020 in date field", driver);
+		  captureScreen("I entered date in date field", driver);
 		  log.info("I entered 04/06/2020 in date field");
 		  test.pass("I entered 04/06/2020 in date field");	
 		  
@@ -293,14 +294,66 @@ public class HCM_ServiceRequest extends Base {
 		  test.pass("I clicked on Attach Receipt link");
 		  
 		  Thread.sleep(2000);
-		  expensePage.getBtnSelectReceipt().sendKeys("C:\\Users\\varun.kandukuri\\Desktop\\1.txt");
+		  //expensePage.getBtnSelectReceipt().click();//.sendKeys("C:\\Users\\varun.kandukuri\\Desktop\\1.txt");
+		  act.click(expensePage.getBtnSelectReceipt()).perform();
+		  log.info("I clicked on Select button");
+		  test.pass("I clicked on Select button");
 		  
+		  String img = System.getProperty("user.dir")+"/Sikuli_Images/desktop.PNG";
+		  Screen s = new Screen();
+		  Pattern p = new Pattern(img);
+		  s.wait(p, 2000);
+		  s.click();
+		  s.click();
+		  captureScreen("I clicked on Desktop section", driver);
+		  log.info("I clicked on Desktop section");
+		  test.pass("I clicked on Desktop section");
+		  
+		  String searchbox = System.getProperty("user.dir")+"/Sikuli_Images/searchbox.PNG";
+		  Screen s1 = new Screen();
+		  Pattern p1 = new Pattern(searchbox);
+		  s1.wait(p1, 2000);
+		  s1.click();
+		  s1.type("1.txt");
+		  captureScreen("I entered 1.txt in searchbox", driver);
+		  log.info("I entered 1.txt in searchbox");
+		  test.pass("I entered 1.txt in searchbox");
+		  
+		  String btnOpen = System.getProperty("user.dir")+"/Sikuli_Images/open.PNG";
+		  Screen s2 = new Screen();
+		  Pattern p2 = new Pattern(btnOpen);
+		  s2.wait(p2, 2000);
+		  s2.click();
+		  //captureScreen("I entered 1.txt in searchbox", driver);
+		  log.info("I clicked on Open button");
+		  test.pass("I clicked on Open button");
+		  
+		  Thread.sleep(3000);
+		  expensePage.getBtnAttach().click();
+		  log.info("I clicked on Attach button");
+		  test.pass("I clicked on Attach button");
+		  Thread.sleep(4000);
+		  
+		 /* expensePage.getTxtNotes().sendKeys("test");
+		  captureScreen("I entered test in Notes field", driver);
+		  log.info("I entered test in Notes field");
+		  test.pass("I entered test in Notes field");*/
+		  
+		  act.moveToElement(expensePage.getBtnSubmit()).perform();
+		  Thread.sleep(2000);
+		  expensePage.getBtnSubmit().click();
+		  log.info("I clicked on Submit button");
+		  test.pass("I clicked on Submit button");
+		  Thread.sleep(2000);
 		  
 	}
 
-	@Then("^I should see Thank you! The next step in this case has been routed appropriately\\.$")
-	public void i_should_see_Thank_you_The_next_step_in_this_case_has_been_routed_appropriately() throws Throwable {
-	   
+	@Then("^I should see Thank you! This case has been routed for approval\\.$")
+	public void i_should_see_Thank_you_This_case_has_been_routed_for_approval() throws Throwable {
+	    String txtRouting = expensePage.getTxtRouting().getText();
+	    log.info("I see : "+txtRouting);
+		  test.pass("I see: "+txtRouting);
+	    System.out.println(txtRouting);
 	}
 	@Then("I should get success message")
 	public void i_should_get_success_message() throws InterruptedException {

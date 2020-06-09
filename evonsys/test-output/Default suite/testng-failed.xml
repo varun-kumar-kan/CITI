@@ -3,17 +3,14 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.evonsys.citi.runnerClasses.HCM_LoginRunner">
+      <class name="com.evonsys.citi.util.readDataFromDownlodedFiles.DownloadFiles">
         <methods>
+          <include name="downloadFile"/>
           <include name="beforeMethod"/>
-          <include name="tearDown"/>
-          <include name="feature" invocation-numbers="0"/>
           <include name="beforeSuite"/>
           <include name="beforeTest"/>
-          <include name="setUpClass"/>
-          <include name="afterMethod"/>
         </methods>
-      </class> <!-- com.evonsys.citi.runnerClasses.HCM_LoginRunner -->
+      </class> <!-- com.evonsys.citi.util.readDataFromDownlodedFiles.DownloadFiles -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

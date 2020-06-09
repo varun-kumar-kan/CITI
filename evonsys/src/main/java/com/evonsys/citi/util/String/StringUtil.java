@@ -1,4 +1,4 @@
-package com.evonsys.citi.String;
+package com.evonsys.citi.util.String;
 
 public class StringUtil {
 	/**

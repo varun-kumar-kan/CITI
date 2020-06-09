@@ -24,7 +24,7 @@ public class ExtentManager {
 		htmlReporter.config().setDocumentTitle(fileName);
 		htmlReporter.config().setEncoding("utf-8");
 		htmlReporter.config().setReportName("Automation Report");
-		
+//		htmlReporter.config().enableOfflineMode(true);
 		extent = new ExtentReports();
 		extent.attachReporter(htmlReporter);
 		return extent;

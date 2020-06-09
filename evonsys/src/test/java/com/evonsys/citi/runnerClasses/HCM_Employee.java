@@ -3,6 +3,8 @@ package com.evonsys.citi.runnerClasses;
 //import org.junit.runner.RunWith;
 
 import cucumber.api.CucumberOptions;
+import cucumber.api.SnippetType;
+
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.DataProvider;
@@ -23,11 +25,17 @@ import cucumber.api.testng.TestNGCucumberRunner;
 		features = "./src/test/java/com/evonsys/citi/featureFiles/"
 		,glue = "com.evonsys.citi.stepDefClasses"
 		,tags={"@Expense"}
-		,dryRun = false	
-		)
+		//,dryRun = false
+		,monochrome = true
+		,plugin={"pretty", "html:test-output/HCM_HTMLreport.html", 
+				}
+		//,strict = false
+		//,snippets= SnippetType.CAMELCASE
+				
+		) 
 
 
-public class HCM_LoginRunner extends Base {// extends AbstractTestNGCucumberTests{
+public class HCM_Employee extends Base {// extends AbstractTestNGCucumberTests{
  
 
 private TestNGCucumberRunner testNGCucumberRunner;

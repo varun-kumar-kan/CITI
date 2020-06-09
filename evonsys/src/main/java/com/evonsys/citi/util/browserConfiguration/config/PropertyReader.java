@@ -1,3 +1,8 @@
+/**
+ * Designed By : Varun
+ * Class Name : Property Reader
+ * Usage : Reads data from Property File
+ */
 package com.evonsys.citi.util.browserConfiguration.config;
 
 import java.io.File;

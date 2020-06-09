@@ -1,4 +1,4 @@
-package com.evonsys.citi.util.Frame;
+package com.evonsys.citi.util.frame;
 
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;

@@ -1,3 +1,9 @@
+/**
+ * Designed By : Varun
+ * Class Name : Firefox Browser
+ * Usage : Firefox browser related Desired Capabilities and its Options
+ */
+
 package com.evonsys.citi.util.browserConfiguration;
 
 import org.openqa.selenium.WebDriver;

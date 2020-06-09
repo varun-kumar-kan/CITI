@@ -18,7 +18,6 @@ import org.testng.ITestResult;
 import org.testng.Reporter;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterTest;
-import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.BeforeTest;
@@ -26,7 +25,6 @@ import org.testng.annotations.BeforeTest;
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.Status;
-import com.aventstack.extentreports.utils.FileUtil;
 import com.evonsys.citi.util.browserConfiguration.BrowserType;
 import com.evonsys.citi.util.browserConfiguration.ChromeBrowser;
 import com.evonsys.citi.util.browserConfiguration.FirefoxBrowser;
@@ -56,6 +54,7 @@ public class Base {
 	}
 	public void getHCM_UAT_Url(){
 		driver.get(ObjectReader.reader.get_HCM_UAT_Url());
+		//driver.get("https://the-internet.herokuapp.com/download");
 	}
 
 	
@@ -63,11 +62,12 @@ public class Base {
 	public void beforeTest(){
 		try {
 			ObjectReader.reader = new PropertyReader();
-			//reportDirectory = new File(ResourceUtil.getResourcePath("/screenshots"));
-			reportDirectory = new File("./screenshots");
+			reportDirectory = new File(ResourceUtil.getResourcePath("/screenshots"));
+//			reportDirectory = new File("./screenshots");
 			setUpDriver(ObjectReader.reader.getBrowserType());
 			test = extent.createTest(getClass().getSimpleName());//executed with the class initialized
 			getHCM_UAT_Url();
+			
 			System.out.println("launched url");
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
@@ -91,7 +91,8 @@ public class Base {
 			//test.log(Status.PASS, result.getName()+" is pass");
 			String imagePath = captureScreen(result.getName(), driver);
 			test.log(Status.PASS, result.getName()+" is pass").addScreenCaptureFromPath(imagePath);
-			//test.addScreenCaptureFromPath(imagePath);
+			//test.log(Status.PASS, imagePath);
+			
 		}
 		else if(result.getStatus() == ITestResult.SKIP){
 			test.log(Status.SKIP, result.getThrowable());
@@ -101,8 +102,9 @@ public class Base {
 		extent.flush();
 	}
 	
-	//@AfterTest
+	@AfterTest
 	public void tearDown(){
+		
 		if(driver!=null){
 			driver.quit();
 		}

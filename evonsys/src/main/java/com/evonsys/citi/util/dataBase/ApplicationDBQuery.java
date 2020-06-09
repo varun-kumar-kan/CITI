@@ -1,4 +1,4 @@
-package com.evonsys.citi.util.DataBase;
+package com.evonsys.citi.util.dataBase;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;

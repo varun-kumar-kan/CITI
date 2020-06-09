@@ -1,4 +1,13 @@
+/**
+ * Desigend By: Varun
+ * Class Name : Chrome Browser
+ * Usage : Deals with Chrome Desired Capabilities and its Options
+ */
 package com.evonsys.citi.util.browserConfiguration;
+
+import java.io.File;
+import java.util.HashMap;
+import java.util.Map;
 
 import org.openqa.selenium.PageLoadStrategy;
 import org.openqa.selenium.WebDriver;
@@ -9,6 +18,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 import com.evonsys.citi.util.resource.ResourceUtil;
 
 public class ChromeBrowser {
+	
 	public ChromeOptions getChromeOptions(){
 		ChromeOptions option = new ChromeOptions();
 		option.setPageLoadStrategy(PageLoadStrategy.NORMAL);
@@ -22,6 +32,13 @@ public class ChromeBrowser {
 		option.addArguments("--disable-gpu");
 		option.addArguments("--whitelisted-ips");
 		option.addArguments("--dns-prefetch-disable");
+		
+		/*File folder=new File("./downloads");;
+		Map<String,Object> prefs = new HashMap<String, Object>();
+		prefs.put("profile.default_content_settings.popup", 0);
+		prefs.put("download.default_directory", folder);
+		option.setExperimentalOption("prefs", prefs);*/
+		
 		DesiredCapabilities chrome = DesiredCapabilities.chrome();
 		chrome.setJavascriptEnabled(true);
 		

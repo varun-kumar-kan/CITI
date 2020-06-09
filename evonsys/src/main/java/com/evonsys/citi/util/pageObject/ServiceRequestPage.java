@@ -14,12 +14,12 @@ import com.evonsys.citi.util.browserConfiguration.config.ObjectReader;
 import com.evonsys.citi.util.logger.LoggerUtil;
 import com.evonsys.citi.util.wait.WaitUtil;
 
-public class ServiceRequest extends Base {
+public class ServiceRequestPage extends Base {
 	private WebDriver driver;
 	private final Logger log = LoggerUtil.getLogger(HCM_HomePage.class);
 	WaitUtil wait;
 	
-	public ServiceRequest(WebDriver driver){
+	public ServiceRequestPage(WebDriver driver){
 		this.driver = driver;
 		PageFactory.initElements(driver, this);
 		wait = new WaitUtil(driver);

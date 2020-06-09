@@ -1,3 +1,8 @@
+/**
+ * Designed By : Varun
+ * Class Name : DropDownUtil
+ * Usage : Deals with DropDown reusable code
+ */
 package com.evonsys.citi.util.select;
 
 import java.util.LinkedList;
@@ -16,7 +21,7 @@ public class DropDownUtil {
 	Select sel;        
 	public DropDownUtil(WebDriver driver){
 		this.driver = driver;
-		log.info("DropDown Helper object is created.");
+		log.info("DropDown object is created.");
 	}
 	
 	public void selectByValue(WebElement element, String value){

@@ -33,8 +33,8 @@ public class HCMPage extends Base {
 
 	}
 
-	@FindBy(id = "txtUserID")
-	// @FindBy(xpath = "//input[@id='txtUserID']")
+	//@FindBy(id = "txtUserID")
+	 @FindBy(xpath = "//input[@id='txtUserID']")
 	private WebElement txt_VarunUserName;
 
 	@FindBy(id = "txtPassword")

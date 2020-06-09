@@ -6,18 +6,16 @@ import com.evonsys.citi.base.Base;
 
 import junit.framework.Assert;
 
-public class B extends Base {
+public class B {
 	int i = 1;
+	
 	@Test
 	public void testoginB(){
-		if(i==3){
-			Assert.assertTrue(true);
-		}else{
-			System.out.println(i);
-			i++;
-			Assert.assertTrue(false);
-		}
+		System.setProperty("1", "varun");
+		System.out.println(System.getProperty("1"));
 		
+		
+		System.out.println(System.getProperty("os"));
 	}
 
 }

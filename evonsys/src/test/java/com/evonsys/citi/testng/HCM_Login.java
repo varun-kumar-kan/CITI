@@ -21,7 +21,7 @@ import com.evonsys.citi.util.pageObject.ApplicationText;
 import com.evonsys.citi.util.pageObject.EmployeePage;
 import com.evonsys.citi.util.pageObject.HCMPage;
 import com.evonsys.citi.util.pageObject.HCM_HomePage;
-import com.evonsys.citi.util.pageObject.ServiceRequest;
+import com.evonsys.citi.util.pageObject.ServiceRequestPage;
 import com.evonsys.citi.util.select.DropDownUtil;
 import com.evonsys.citi.util.wait.WaitUtil;
 
@@ -163,7 +163,7 @@ public class HCM_Login extends Base {
 	  test.pass("I clicked on Service Request tab");
 	  Thread.sleep(6000);
 	  
-	  ServiceRequest sRequest = new ServiceRequest(driver);
+	  ServiceRequestPage sRequest = new ServiceRequestPage(driver);
 	  ApplicationText a = new ApplicationText();
 	  driver.switchTo().frame(a.iframe);
 	 // driver.switchTo().frame("PegaGadget5Ifr");

@@ -6,17 +6,23 @@ import com.evonsys.citi.base.Base;
 
 import junit.framework.Assert;
 
-public class C extends Base{
-	int i = 1;
+public class C{
+	/*int i = 1;
 	@Test
 	public void testoginC(){
-		if(i==3){
-			Assert.assertTrue(true);
-		}else{
-			System.out.println(i);
-			i++;
-			Assert.assertTrue(false);
+		System.out.println(System.getProperty("1"));
+}		*/
+
+	public static void main(String[] args) {
+		String s = "Anusha";
+		char[] ch = s.toCharArray();
+		for(int i=0; i<ch.length;i++){
+			String temp = s.substring(i);
+			
+			System.out.println(temp);
+			String t1 = temp+ch[i];
+			System.out.println(":="+t1);
+			
 		}
-		
 	}
 }

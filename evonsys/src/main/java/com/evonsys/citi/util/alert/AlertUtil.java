@@ -1,3 +1,8 @@
+/**
+ * Designed By; Varun
+ * Class Name : AlertUtil
+ * Usage : All reusable code of Alert class
+ */
 package com.evonsys.citi.util.alert;
 
 import org.apache.log4j.Logger;
